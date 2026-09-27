@@ -1,0 +1,1481 @@
+Order ID,Order Date,Product,Category,Region,Quantity,Unit Price,Revenue
+ORD-10001,2024-01-02,Bluetooth Speaker Mini,Electronics,Northeast,2,39.99,79.98
+ORD-10002,2024-01-03,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,1,22.99,22.99
+ORD-10002,2024-01-03,Trail Running Shoes,Sports & Outdoors,Southeast,2,119.99,239.98
+ORD-10002,2024-01-03,Organic Cotton T-Shirt,Clothing,Southeast,2,16.99,33.98
+ORD-10003,2024-01-03,Insulated Water Bottle,Sports & Outdoors,Southeast,4,24.99,99.96
+ORD-10004,2024-01-05,Vitamin C Face Serum,Beauty & Personal Care,Midwest,3,27.99,83.97
+ORD-10004,2024-01-05,Mystery Novel Collection,Books,Midwest,3,24.99,74.97
+ORD-10005,2024-01-06,Camping Tent 2-Person,Sports & Outdoors,West,2,139.99,279.98
+ORD-10006,2024-01-06,Waterproof Rain Jacket,Clothing,Midwest,1,79.99,79.99
+ORD-10006,2024-01-06,Data Science Handbook,Books,Midwest,1,44.99,44.99
+ORD-10007,2024-01-07,Bluetooth Speaker Mini,Electronics,Southeast,3,39.99,119.97
+ORD-10008,2024-01-09,Wireless Earbuds Pro,Electronics,Southwest,1,89.99,89.99
+ORD-10008,2024-01-09,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,1,20.69,20.69
+ORD-10009,2024-01-09,Bluetooth Speaker Mini,Electronics,Southeast,3,39.99,119.97
+ORD-10009,2024-01-09,Electric Kettle,Home & Kitchen,Southeast,1,34.99,34.99
+ORD-10010,2024-01-12,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10011,2024-01-13,Stainless Steel Cookware Set,Home & Kitchen,West,1,129.99,129.99
+ORD-10012,2024-01-15,Insulated Water Bottle,Sports & Outdoors,West,2,24.99,49.98
+ORD-10013,2024-01-15,Yoga Mat Premium,Sports & Outdoors,Southeast,1,31.49,31.49
+ORD-10013,2024-01-15,Organic Cotton T-Shirt,Clothing,Southeast,4,19.99,79.96
+ORD-10014,2024-01-17,Yoga Mat Premium,Sports & Outdoors,Midwest,3,34.99,104.97
+ORD-10015,2024-01-18,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,19.79,19.79
+ORD-10015,2024-01-18,Mystery Novel Collection,Books,West,1,24.99,24.99
+ORD-10015,2024-01-18,Camping Tent 2-Person,Sports & Outdoors,West,3,139.99,419.97
+ORD-10016,2024-01-20,Electric Kettle,Home & Kitchen,Southeast,2,34.99,69.98
+ORD-10016,2024-01-20,Stainless Steel Cookware Set,Home & Kitchen,Southeast,2,129.99,259.98
+ORD-10017,2024-01-21,USB-C Fast Charger,Electronics,West,1,22.49,22.49
+ORD-10017,2024-01-21,Wireless Earbuds Pro,Electronics,West,1,80.99,80.99
+ORD-10018,2024-01-21,Bluetooth Speaker Mini,Electronics,Northeast,2,39.99,79.98
+ORD-10018,2024-01-21,Bamboo Cutting Board,Home & Kitchen,Northeast,4,18.99,75.96
+ORD-10019,2024-01-22,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10020,2024-01-23,Electric Kettle,Home & Kitchen,Northeast,4,34.99,139.96
+ORD-10020,2024-01-23,Data Science Handbook,Books,Northeast,2,40.49,80.98
+ORD-10021,2024-01-26,Merino Wool Socks (3-Pack),Clothing,Northeast,1,16.99,16.99
+ORD-10022,2024-01-26,Mystery Novel Collection,Books,Southwest,1,24.99,24.99
+ORD-10022,2024-01-26,Slim Fit Denim Jeans,Clothing,Southwest,1,42.49,42.49
+ORD-10023,2024-01-27,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10024,2024-01-27,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,1,21.99,21.99
+ORD-10024,2024-01-27,Bamboo Cutting Board,Home & Kitchen,Southeast,1,17.09,17.09
+ORD-10025,2024-01-28,USB-C Fast Charger,Electronics,Midwest,3,24.99,74.97
+ORD-10025,2024-01-28,Hair Dryer Ionic,Beauty & Personal Care,Midwest,1,69.99,69.99
+ORD-10026,2024-01-30,Wireless Earbuds Pro,Electronics,Northeast,1,89.99,89.99
+ORD-10027,2024-01-30,Adjustable Dumbbell Pair,Sports & Outdoors,West,3,179.99,539.97
+ORD-10028,2024-02-04,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,3,19.79,59.37
+ORD-10028,2024-02-04,Merino Wool Socks (3-Pack),Clothing,Northeast,1,16.99,16.99
+ORD-10029,2024-02-04,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,27.99,27.99
+ORD-10030,2024-02-05,Air Fryer 5L,Home & Kitchen,West,1,99.99,99.99
+ORD-10031,2024-02-05,Smart Fitness Watch,Electronics,West,1,149.99,149.99
+ORD-10032,2024-02-06,Bamboo Cutting Board,Home & Kitchen,Northeast,3,18.99,56.97
+ORD-10032,2024-02-06,Mystery Novel Collection,Books,Northeast,1,24.99,24.99
+ORD-10033,2024-02-07,Mystery Novel Collection,Books,Southeast,2,24.99,49.98
+ORD-10033,2024-02-07,Hair Dryer Ionic,Beauty & Personal Care,Southeast,1,69.99,69.99
+ORD-10034,2024-02-12,Merino Wool Socks (3-Pack),Clothing,Southeast,1,16.99,16.99
+ORD-10034,2024-02-12,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,2,21.99,43.98
+ORD-10035,2024-02-13,Electric Kettle,Home & Kitchen,Midwest,1,31.49,31.49
+ORD-10036,2024-02-13,Bamboo Cutting Board,Home & Kitchen,West,1,18.99,18.99
+ORD-10037,2024-02-14,Merino Wool Socks (3-Pack),Clothing,Midwest,2,16.99,33.98
+ORD-10038,2024-02-14,Data Science Handbook,Books,Northeast,2,44.99,89.98
+ORD-10039,2024-02-18,Slim Fit Denim Jeans,Clothing,Northeast,2,49.99,99.98
+ORD-10039,2024-02-18,Mindful Productivity Guide,Books,Northeast,1,16.99,16.99
+ORD-10040,2024-02-19,4K Streaming Stick,Electronics,Northeast,1,49.99,49.99
+ORD-10040,2024-02-19,Bluetooth Speaker Mini,Electronics,Northeast,1,39.99,39.99
+ORD-10041,2024-02-19,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10041,2024-02-19,Air Fryer 5L,Home & Kitchen,Northeast,1,99.99,99.99
+ORD-10042,2024-02-19,Data Science Handbook,Books,Southwest,1,44.99,44.99
+ORD-10043,2024-02-20,Yoga Mat Premium,Sports & Outdoors,Northeast,4,34.99,139.96
+ORD-10044,2024-02-22,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10044,2024-02-22,Waterproof Rain Jacket,Clothing,West,4,79.99,319.96
+ORD-10045,2024-02-22,Classic Leather Belt,Clothing,Southeast,3,29.99,89.97
+ORD-10045,2024-02-22,Electric Toothbrush,Beauty & Personal Care,Southeast,4,59.99,239.96
+ORD-10045,2024-02-22,USB-C Fast Charger,Electronics,Southeast,1,24.99,24.99
+ORD-10046,2024-02-23,Bluetooth Speaker Mini,Electronics,Southeast,4,39.99,159.96
+ORD-10047,2024-02-24,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,69.99,69.99
+ORD-10048,2024-02-24,Yoga Mat Premium,Sports & Outdoors,Southeast,2,29.74,59.48
+ORD-10049,2024-02-27,Ceramic Coffee Mug Set,Home & Kitchen,West,1,22.99,22.99
+ORD-10050,2024-02-28,Merino Wool Socks (3-Pack),Clothing,Midwest,2,16.99,33.98
+ORD-10050,2024-02-28,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,1,22.99,22.99
+ORD-10051,2024-02-28,Bamboo Cutting Board,Home & Kitchen,Northeast,1,18.99,18.99
+ORD-10051,2024-02-28,4K Streaming Stick,Electronics,Northeast,3,49.99,149.97
+ORD-10052,2024-02-29,Classic Leather Belt,Clothing,West,3,25.49,76.47
+ORD-10052,2024-02-29,Insulated Water Bottle,Sports & Outdoors,West,3,21.24,63.72
+ORD-10052,2024-02-29,Smart Fitness Watch,Electronics,West,1,149.99,149.99
+ORD-10053,2024-02-29,Insulated Water Bottle,Sports & Outdoors,Northeast,4,24.99,99.96
+ORD-10054,2024-03-01,Slim Fit Denim Jeans,Clothing,Southwest,2,44.99,89.98
+ORD-10054,2024-03-01,Wireless Earbuds Pro,Electronics,Southwest,4,80.99,323.96
+ORD-10055,2024-03-01,Electric Kettle,Home & Kitchen,Southeast,1,34.99,34.99
+ORD-10056,2024-03-02,Merino Wool Socks (3-Pack),Clothing,West,1,14.44,14.44
+ORD-10057,2024-03-02,Classic Leather Belt,Clothing,West,4,26.99,107.96
+ORD-10058,2024-03-03,Electric Toothbrush,Beauty & Personal Care,Southeast,2,59.99,119.98
+ORD-10059,2024-03-04,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10060,2024-03-05,Electric Toothbrush,Beauty & Personal Care,Southeast,1,59.99,59.99
+ORD-10061,2024-03-06,Wireless Earbuds Pro,Electronics,Southeast,3,89.99,269.97
+ORD-10061,2024-03-06,Waterproof Rain Jacket,Clothing,Southeast,2,79.99,159.98
+ORD-10062,2024-03-06,Yoga Mat Premium,Sports & Outdoors,Southwest,2,34.99,69.98
+ORD-10063,2024-03-08,4K Streaming Stick,Electronics,Midwest,2,49.99,99.98
+ORD-10064,2024-03-09,World Cuisine Cookbook,Books,Southeast,1,29.99,29.99
+ORD-10065,2024-03-09,Smart Fitness Watch,Electronics,West,4,149.99,599.96
+ORD-10065,2024-03-09,Adjustable Dumbbell Pair,Sports & Outdoors,West,2,179.99,359.98
+ORD-10065,2024-03-09,Hair Dryer Ionic,Beauty & Personal Care,West,1,69.99,69.99
+ORD-10066,2024-03-11,Wireless Earbuds Pro,Electronics,West,1,80.99,80.99
+ORD-10066,2024-03-11,Trail Running Shoes,Sports & Outdoors,West,1,101.99,101.99
+ORD-10066,2024-03-11,Ceramic Coffee Mug Set,Home & Kitchen,West,1,20.69,20.69
+ORD-10067,2024-03-15,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,4,21.99,87.96
+ORD-10068,2024-03-16,Bamboo Cutting Board,Home & Kitchen,West,1,18.99,18.99
+ORD-10069,2024-03-17,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10069,2024-03-17,4K Streaming Stick,Electronics,Northeast,4,44.99,179.96
+ORD-10069,2024-03-17,Electric Kettle,Home & Kitchen,Northeast,1,31.49,31.49
+ORD-10070,2024-03-18,World Cuisine Cookbook,Books,West,2,26.99,53.98
+ORD-10070,2024-03-18,Bluetooth Speaker Mini,Electronics,West,1,39.99,39.99
+ORD-10071,2024-03-23,Trail Running Shoes,Sports & Outdoors,West,2,119.99,239.98
+ORD-10071,2024-03-23,Slim Fit Denim Jeans,Clothing,West,1,49.99,49.99
+ORD-10071,2024-03-23,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10072,2024-03-23,Organic Cotton T-Shirt,Clothing,Northeast,3,19.99,59.97
+ORD-10072,2024-03-23,Mindful Productivity Guide,Books,Northeast,2,16.99,33.98
+ORD-10073,2024-03-29,Noise-Cancelling Headphones,Electronics,Northeast,4,229.99,919.96
+ORD-10073,2024-03-29,Waterproof Rain Jacket,Clothing,Northeast,4,79.99,319.96
+ORD-10073,2024-03-29,Mindful Productivity Guide,Books,Northeast,1,16.99,16.99
+ORD-10074,2024-03-31,Mindful Productivity Guide,Books,Northeast,1,16.99,16.99
+ORD-10075,2024-04-03,Electric Toothbrush,Beauty & Personal Care,Southwest,4,53.99,215.96
+ORD-10076,2024-04-04,Bluetooth Speaker Mini,Electronics,West,2,39.99,79.98
+ORD-10077,2024-04-04,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10077,2024-04-04,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,27.99,27.99
+ORD-10077,2024-04-04,Merino Wool Socks (3-Pack),Clothing,Southeast,1,16.99,16.99
+ORD-10078,2024-04-04,USB-C Fast Charger,Electronics,Northeast,2,24.99,49.98
+ORD-10078,2024-04-04,Mindful Productivity Guide,Books,Northeast,3,16.99,50.97
+ORD-10079,2024-04-05,Organic Cotton T-Shirt,Clothing,Midwest,1,16.99,16.99
+ORD-10080,2024-04-05,Organic Cotton T-Shirt,Clothing,Midwest,4,19.99,79.96
+ORD-10081,2024-04-07,Smart Fitness Watch,Electronics,Northeast,1,149.99,149.99
+ORD-10081,2024-04-07,Mystery Novel Collection,Books,Northeast,2,24.99,49.98
+ORD-10082,2024-04-07,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,4,179.99,719.96
+ORD-10082,2024-04-07,Vitamin C Face Serum,Beauty & Personal Care,Northeast,2,25.19,50.38
+ORD-10083,2024-04-09,Insulated Water Bottle,Sports & Outdoors,Southwest,2,24.99,49.98
+ORD-10084,2024-04-10,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10085,2024-04-11,4K Streaming Stick,Electronics,Southwest,3,49.99,149.97
+ORD-10086,2024-04-13,Yoga Mat Premium,Sports & Outdoors,Northeast,1,31.49,31.49
+ORD-10087,2024-04-13,World Cuisine Cookbook,Books,Southeast,3,29.99,89.97
+ORD-10088,2024-04-14,Waterproof Rain Jacket,Clothing,Northeast,1,71.99,71.99
+ORD-10089,2024-04-14,Air Fryer 5L,Home & Kitchen,Southwest,4,99.99,399.96
+ORD-10090,2024-04-14,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10091,2024-04-15,Slim Fit Denim Jeans,Clothing,Southwest,1,44.99,44.99
+ORD-10092,2024-04-16,Organic Cotton T-Shirt,Clothing,Southwest,1,19.99,19.99
+ORD-10092,2024-04-16,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,21.99,21.99
+ORD-10093,2024-04-18,Stainless Steel Cookware Set,Home & Kitchen,Midwest,4,129.99,519.96
+ORD-10094,2024-04-18,Organic Cotton T-Shirt,Clothing,Southeast,3,19.99,59.97
+ORD-10095,2024-04-19,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,27.99,27.99
+ORD-10096,2024-04-19,Mystery Novel Collection,Books,Southwest,4,22.49,89.96
+ORD-10096,2024-04-19,Yoga Mat Premium,Sports & Outdoors,Southwest,3,31.49,94.47
+ORD-10097,2024-04-20,Wireless Earbuds Pro,Electronics,Midwest,4,89.99,359.96
+ORD-10098,2024-04-21,Merino Wool Socks (3-Pack),Clothing,Midwest,3,15.29,45.87
+ORD-10099,2024-04-22,Electric Toothbrush,Beauty & Personal Care,Northeast,2,53.99,107.98
+ORD-10100,2024-04-22,Data Science Handbook,Books,West,1,44.99,44.99
+ORD-10100,2024-04-22,Ceramic Coffee Mug Set,Home & Kitchen,West,1,22.99,22.99
+ORD-10101,2024-04-23,Merino Wool Socks (3-Pack),Clothing,West,2,16.99,33.98
+ORD-10102,2024-04-23,World Cuisine Cookbook,Books,Northeast,1,29.99,29.99
+ORD-10103,2024-04-24,4K Streaming Stick,Electronics,West,1,49.99,49.99
+ORD-10103,2024-04-24,USB-C Fast Charger,Electronics,West,3,22.49,67.47
+ORD-10104,2024-04-24,Electric Toothbrush,Beauty & Personal Care,Northeast,4,50.99,203.96
+ORD-10104,2024-04-24,Noise-Cancelling Headphones,Electronics,Northeast,1,229.99,229.99
+ORD-10105,2024-04-25,Stainless Steel Cookware Set,Home & Kitchen,Southeast,3,116.99,350.97
+ORD-10106,2024-04-26,4K Streaming Stick,Electronics,Southeast,3,49.99,149.97
+ORD-10106,2024-04-26,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10107,2024-04-27,Electric Toothbrush,Beauty & Personal Care,Northeast,4,59.99,239.96
+ORD-10108,2024-04-27,Air Fryer 5L,Home & Kitchen,Southeast,1,99.99,99.99
+ORD-10108,2024-04-27,4K Streaming Stick,Electronics,Southeast,1,49.99,49.99
+ORD-10109,2024-04-28,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10109,2024-04-28,Mystery Novel Collection,Books,West,1,21.24,21.24
+ORD-10110,2024-04-29,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,27.99,27.99
+ORD-10110,2024-04-29,Bluetooth Speaker Mini,Electronics,Southeast,2,39.99,79.98
+ORD-10111,2024-04-29,Electric Toothbrush,Beauty & Personal Care,Midwest,1,53.99,53.99
+ORD-10112,2024-04-29,Stainless Steel Cookware Set,Home & Kitchen,Southeast,4,129.99,519.96
+ORD-10113,2024-04-30,Noise-Cancelling Headphones,Electronics,West,1,229.99,229.99
+ORD-10114,2024-04-30,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,3,161.99,485.97
+ORD-10115,2024-05-02,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,4,21.99,87.96
+ORD-10115,2024-05-02,Noise-Cancelling Headphones,Electronics,Northeast,4,229.99,919.96
+ORD-10115,2024-05-02,Wireless Earbuds Pro,Electronics,Northeast,2,89.99,179.98
+ORD-10116,2024-05-02,Trail Running Shoes,Sports & Outdoors,West,3,119.99,359.97
+ORD-10116,2024-05-02,Organic Cotton T-Shirt,Clothing,West,4,17.99,71.96
+ORD-10116,2024-05-02,Hair Dryer Ionic,Beauty & Personal Care,West,3,69.99,209.97
+ORD-10117,2024-05-03,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,129.99,129.99
+ORD-10118,2024-05-04,Electric Toothbrush,Beauty & Personal Care,Midwest,2,53.99,107.98
+ORD-10119,2024-05-05,Insulated Water Bottle,Sports & Outdoors,Southeast,3,22.49,67.47
+ORD-10119,2024-05-05,Waterproof Rain Jacket,Clothing,Southeast,1,67.99,67.99
+ORD-10120,2024-05-05,Mystery Novel Collection,Books,Southwest,2,21.24,42.48
+ORD-10120,2024-05-05,Air Fryer 5L,Home & Kitchen,Southwest,2,99.99,199.98
+ORD-10120,2024-05-05,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,2,161.99,323.98
+ORD-10121,2024-05-06,Bamboo Cutting Board,Home & Kitchen,Southeast,1,17.09,17.09
+ORD-10121,2024-05-06,Mystery Novel Collection,Books,Southeast,3,22.49,67.47
+ORD-10122,2024-05-06,Insulated Water Bottle,Sports & Outdoors,Southeast,1,22.49,22.49
+ORD-10123,2024-05-06,Trail Running Shoes,Sports & Outdoors,Northeast,1,119.99,119.99
+ORD-10124,2024-05-07,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,69.99,139.98
+ORD-10125,2024-05-07,Smart Fitness Watch,Electronics,Southeast,2,149.99,299.98
+ORD-10125,2024-05-07,Vitamin C Face Serum,Beauty & Personal Care,Southeast,4,25.19,100.76
+ORD-10125,2024-05-07,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,129.99,129.99
+ORD-10126,2024-05-08,Noise-Cancelling Headphones,Electronics,West,1,229.99,229.99
+ORD-10127,2024-05-09,Yoga Mat Premium,Sports & Outdoors,West,4,34.99,139.96
+ORD-10127,2024-05-09,Camping Tent 2-Person,Sports & Outdoors,West,2,139.99,279.98
+ORD-10128,2024-05-09,Data Science Handbook,Books,Southwest,3,44.99,134.97
+ORD-10129,2024-05-10,Mystery Novel Collection,Books,Midwest,3,22.49,67.47
+ORD-10130,2024-05-11,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10131,2024-05-11,Mystery Novel Collection,Books,Northeast,1,24.99,24.99
+ORD-10132,2024-05-11,Classic Leather Belt,Clothing,Northeast,1,26.99,26.99
+ORD-10132,2024-05-11,Vitamin C Face Serum,Beauty & Personal Care,Northeast,2,27.99,55.98
+ORD-10133,2024-05-12,Organic Cotton T-Shirt,Clothing,Midwest,1,19.99,19.99
+ORD-10133,2024-05-12,Air Fryer 5L,Home & Kitchen,Midwest,2,89.99,179.98
+ORD-10134,2024-05-12,Stainless Steel Cookware Set,Home & Kitchen,Southeast,3,129.99,389.97
+ORD-10135,2024-05-13,Smart Fitness Watch,Electronics,Southwest,3,149.99,449.97
+ORD-10135,2024-05-13,Vitamin C Face Serum,Beauty & Personal Care,Southwest,3,27.99,83.97
+ORD-10136,2024-05-14,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10137,2024-05-16,Yoga Mat Premium,Sports & Outdoors,Midwest,1,34.99,34.99
+ORD-10137,2024-05-16,USB-C Fast Charger,Electronics,Midwest,2,24.99,49.98
+ORD-10138,2024-05-17,Bamboo Cutting Board,Home & Kitchen,Northeast,2,18.99,37.98
+ORD-10139,2024-05-17,Noise-Cancelling Headphones,Electronics,Midwest,1,229.99,229.99
+ORD-10139,2024-05-17,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,21.99,21.99
+ORD-10140,2024-05-18,Mindful Productivity Guide,Books,Midwest,3,16.99,50.97
+ORD-10141,2024-05-18,Camping Tent 2-Person,Sports & Outdoors,Midwest,1,139.99,139.99
+ORD-10142,2024-05-18,Slim Fit Denim Jeans,Clothing,Midwest,1,49.99,49.99
+ORD-10142,2024-05-18,World Cuisine Cookbook,Books,Midwest,1,29.99,29.99
+ORD-10142,2024-05-18,Organic Cotton T-Shirt,Clothing,Midwest,1,19.99,19.99
+ORD-10143,2024-05-19,Camping Tent 2-Person,Sports & Outdoors,Southeast,1,139.99,139.99
+ORD-10143,2024-05-19,Wireless Earbuds Pro,Electronics,Southeast,2,76.49,152.98
+ORD-10144,2024-05-20,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,20.69,20.69
+ORD-10144,2024-05-20,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,1,179.99,179.99
+ORD-10145,2024-05-20,Vitamin C Face Serum,Beauty & Personal Care,West,2,23.79,47.58
+ORD-10146,2024-05-22,Stainless Steel Cookware Set,Home & Kitchen,Northeast,3,129.99,389.97
+ORD-10147,2024-05-22,Mystery Novel Collection,Books,Midwest,3,21.24,63.72
+ORD-10147,2024-05-22,Waterproof Rain Jacket,Clothing,Midwest,4,79.99,319.96
+ORD-10147,2024-05-22,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,1,161.99,161.99
+ORD-10148,2024-05-23,Mystery Novel Collection,Books,Southeast,2,21.24,42.48
+ORD-10149,2024-05-23,Electric Kettle,Home & Kitchen,West,2,34.99,69.98
+ORD-10149,2024-05-23,Ceramic Coffee Mug Set,Home & Kitchen,West,2,22.99,45.98
+ORD-10150,2024-05-25,Vitamin C Face Serum,Beauty & Personal Care,Southwest,3,27.99,83.97
+ORD-10151,2024-05-25,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10152,2024-05-25,Merino Wool Socks (3-Pack),Clothing,Northeast,4,16.99,67.96
+ORD-10152,2024-05-25,Wireless Earbuds Pro,Electronics,Northeast,1,89.99,89.99
+ORD-10153,2024-05-25,Smart Fitness Watch,Electronics,Southeast,4,149.99,599.96
+ORD-10154,2024-05-25,Yoga Mat Premium,Sports & Outdoors,West,2,34.99,69.98
+ORD-10155,2024-05-26,Electric Toothbrush,Beauty & Personal Care,Midwest,2,59.99,119.98
+ORD-10156,2024-05-27,Merino Wool Socks (3-Pack),Clothing,Northeast,4,16.99,67.96
+ORD-10156,2024-05-27,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10156,2024-05-27,4K Streaming Stick,Electronics,Northeast,3,42.49,127.47
+ORD-10157,2024-05-28,Slim Fit Denim Jeans,Clothing,Midwest,3,49.99,149.97
+ORD-10158,2024-05-28,Trail Running Shoes,Sports & Outdoors,Northeast,1,119.99,119.99
+ORD-10159,2024-05-28,Yoga Mat Premium,Sports & Outdoors,Southeast,2,34.99,69.98
+ORD-10159,2024-05-28,Vitamin C Face Serum,Beauty & Personal Care,Southeast,3,27.99,83.97
+ORD-10160,2024-05-29,Stainless Steel Cookware Set,Home & Kitchen,Midwest,1,129.99,129.99
+ORD-10161,2024-05-29,USB-C Fast Charger,Electronics,Midwest,1,22.49,22.49
+ORD-10162,2024-05-30,Mindful Productivity Guide,Books,West,2,14.44,28.88
+ORD-10163,2024-06-01,Vitamin C Face Serum,Beauty & Personal Care,West,1,23.79,23.79
+ORD-10164,2024-06-01,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10164,2024-06-01,Smart Fitness Watch,Electronics,West,2,149.99,299.98
+ORD-10164,2024-06-01,Natural Shampoo & Conditioner,Beauty & Personal Care,West,2,21.99,43.98
+ORD-10165,2024-06-02,Camping Tent 2-Person,Sports & Outdoors,Southwest,2,125.99,251.98
+ORD-10166,2024-06-03,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,4,22.99,91.96
+ORD-10167,2024-06-03,Noise-Cancelling Headphones,Electronics,Southeast,4,229.99,919.96
+ORD-10168,2024-06-04,4K Streaming Stick,Electronics,West,2,44.99,89.98
+ORD-10168,2024-06-04,Hair Dryer Ionic,Beauty & Personal Care,West,1,69.99,69.99
+ORD-10169,2024-06-05,Stainless Steel Cookware Set,Home & Kitchen,Southwest,2,129.99,259.98
+ORD-10169,2024-06-05,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10169,2024-06-05,Mystery Novel Collection,Books,Southwest,4,24.99,99.96
+ORD-10170,2024-06-05,Electric Kettle,Home & Kitchen,Midwest,1,31.49,31.49
+ORD-10170,2024-06-05,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,3,20.69,62.07
+ORD-10171,2024-06-06,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,2,179.99,359.98
+ORD-10171,2024-06-06,Bluetooth Speaker Mini,Electronics,Midwest,1,39.99,39.99
+ORD-10171,2024-06-06,Data Science Handbook,Books,Midwest,1,44.99,44.99
+ORD-10172,2024-06-06,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10173,2024-06-06,Wireless Earbuds Pro,Electronics,Midwest,2,89.99,179.98
+ORD-10174,2024-06-07,Bluetooth Speaker Mini,Electronics,Southeast,2,39.99,79.98
+ORD-10174,2024-06-07,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10175,2024-06-07,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10176,2024-06-09,Organic Cotton T-Shirt,Clothing,Midwest,2,19.99,39.98
+ORD-10177,2024-06-11,Wireless Earbuds Pro,Electronics,West,4,80.99,323.96
+ORD-10177,2024-06-11,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10177,2024-06-11,Vitamin C Face Serum,Beauty & Personal Care,West,1,23.79,23.79
+ORD-10178,2024-06-12,Merino Wool Socks (3-Pack),Clothing,Northeast,4,16.99,67.96
+ORD-10179,2024-06-12,Wireless Earbuds Pro,Electronics,Southeast,2,89.99,179.98
+ORD-10179,2024-06-12,Organic Cotton T-Shirt,Clothing,Southeast,1,16.99,16.99
+ORD-10179,2024-06-12,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,1,21.99,21.99
+ORD-10180,2024-06-13,Electric Kettle,Home & Kitchen,Northeast,2,34.99,69.98
+ORD-10180,2024-06-13,Waterproof Rain Jacket,Clothing,Northeast,1,79.99,79.99
+ORD-10180,2024-06-13,Bluetooth Speaker Mini,Electronics,Northeast,4,33.99,135.96
+ORD-10181,2024-06-14,Hair Dryer Ionic,Beauty & Personal Care,Southeast,1,69.99,69.99
+ORD-10182,2024-06-14,Merino Wool Socks (3-Pack),Clothing,West,2,14.44,28.88
+ORD-10183,2024-06-14,Wireless Earbuds Pro,Electronics,Northeast,1,89.99,89.99
+ORD-10184,2024-06-15,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10185,2024-06-16,Trail Running Shoes,Sports & Outdoors,Southeast,2,119.99,239.98
+ORD-10186,2024-06-16,4K Streaming Stick,Electronics,West,2,44.99,89.98
+ORD-10187,2024-06-16,Slim Fit Denim Jeans,Clothing,Southeast,2,49.99,99.98
+ORD-10188,2024-06-16,Electric Toothbrush,Beauty & Personal Care,Southwest,1,50.99,50.99
+ORD-10189,2024-06-17,Trail Running Shoes,Sports & Outdoors,Midwest,2,119.99,239.98
+ORD-10189,2024-06-17,Mystery Novel Collection,Books,Midwest,1,24.99,24.99
+ORD-10190,2024-06-20,Yoga Mat Premium,Sports & Outdoors,Midwest,1,29.74,29.74
+ORD-10191,2024-06-21,Bluetooth Speaker Mini,Electronics,Southeast,1,39.99,39.99
+ORD-10192,2024-06-22,Electric Kettle,Home & Kitchen,Southeast,1,34.99,34.99
+ORD-10193,2024-06-22,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,1,22.99,22.99
+ORD-10194,2024-06-22,Vitamin C Face Serum,Beauty & Personal Care,Northeast,2,23.79,47.58
+ORD-10195,2024-06-24,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,4,20.69,82.76
+ORD-10196,2024-06-26,Data Science Handbook,Books,West,1,40.49,40.49
+ORD-10196,2024-06-26,Organic Cotton T-Shirt,Clothing,West,3,19.99,59.97
+ORD-10197,2024-06-26,Mystery Novel Collection,Books,West,2,24.99,49.98
+ORD-10198,2024-06-27,Vitamin C Face Serum,Beauty & Personal Care,Southwest,3,25.19,75.57
+ORD-10199,2024-06-28,Bluetooth Speaker Mini,Electronics,Midwest,4,39.99,159.96
+ORD-10199,2024-06-28,Electric Kettle,Home & Kitchen,Midwest,1,34.99,34.99
+ORD-10200,2024-06-28,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10201,2024-06-29,Ceramic Coffee Mug Set,Home & Kitchen,West,4,22.99,91.96
+ORD-10202,2024-06-30,Slim Fit Denim Jeans,Clothing,Southeast,1,49.99,49.99
+ORD-10203,2024-07-01,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,21.99,21.99
+ORD-10204,2024-07-03,Mystery Novel Collection,Books,West,1,24.99,24.99
+ORD-10204,2024-07-03,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10205,2024-07-03,Electric Kettle,Home & Kitchen,West,1,34.99,34.99
+ORD-10206,2024-07-04,Smart Fitness Watch,Electronics,Midwest,4,134.99,539.96
+ORD-10206,2024-07-04,Classic Leather Belt,Clothing,Midwest,1,29.99,29.99
+ORD-10207,2024-07-05,Bluetooth Speaker Mini,Electronics,Southeast,1,35.99,35.99
+ORD-10207,2024-07-05,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10208,2024-07-05,Organic Cotton T-Shirt,Clothing,Midwest,1,19.99,19.99
+ORD-10208,2024-07-05,USB-C Fast Charger,Electronics,Midwest,3,24.99,74.97
+ORD-10209,2024-07-06,Mindful Productivity Guide,Books,West,4,16.99,67.96
+ORD-10210,2024-07-08,World Cuisine Cookbook,Books,Northeast,2,29.99,59.98
+ORD-10210,2024-07-08,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10210,2024-07-08,Air Fryer 5L,Home & Kitchen,Northeast,2,99.99,199.98
+ORD-10211,2024-07-09,Wireless Earbuds Pro,Electronics,Southwest,4,89.99,359.96
+ORD-10212,2024-07-10,Bluetooth Speaker Mini,Electronics,Southeast,4,35.99,143.96
+ORD-10212,2024-07-10,World Cuisine Cookbook,Books,Southeast,3,29.99,89.97
+ORD-10213,2024-07-12,Merino Wool Socks (3-Pack),Clothing,Southeast,2,16.99,33.98
+ORD-10214,2024-07-12,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10215,2024-07-13,Bamboo Cutting Board,Home & Kitchen,Southeast,2,17.09,34.18
+ORD-10215,2024-07-13,Air Fryer 5L,Home & Kitchen,Southeast,2,99.99,199.98
+ORD-10216,2024-07-14,Waterproof Rain Jacket,Clothing,Midwest,1,79.99,79.99
+ORD-10216,2024-07-14,Mindful Productivity Guide,Books,Midwest,1,16.99,16.99
+ORD-10216,2024-07-14,Electric Toothbrush,Beauty & Personal Care,Midwest,2,59.99,119.98
+ORD-10217,2024-07-14,Bluetooth Speaker Mini,Electronics,Northeast,4,35.99,143.96
+ORD-10218,2024-07-15,Hair Dryer Ionic,Beauty & Personal Care,Midwest,4,62.99,251.96
+ORD-10218,2024-07-15,Yoga Mat Premium,Sports & Outdoors,Midwest,2,31.49,62.98
+ORD-10219,2024-07-16,Merino Wool Socks (3-Pack),Clothing,West,2,15.29,30.58
+ORD-10220,2024-07-16,4K Streaming Stick,Electronics,Southwest,1,49.99,49.99
+ORD-10221,2024-07-16,Bluetooth Speaker Mini,Electronics,Southwest,2,35.99,71.98
+ORD-10222,2024-07-17,Mystery Novel Collection,Books,Northeast,4,24.99,99.96
+ORD-10223,2024-07-17,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,2,22.99,45.98
+ORD-10224,2024-07-18,Trail Running Shoes,Sports & Outdoors,Northeast,1,101.99,101.99
+ORD-10225,2024-07-20,Slim Fit Denim Jeans,Clothing,West,4,49.99,199.96
+ORD-10226,2024-07-20,Classic Leather Belt,Clothing,Midwest,2,26.99,53.98
+ORD-10227,2024-07-21,Bamboo Cutting Board,Home & Kitchen,West,1,18.99,18.99
+ORD-10228,2024-07-22,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,27.99,27.99
+ORD-10229,2024-07-24,Smart Fitness Watch,Electronics,West,1,149.99,149.99
+ORD-10230,2024-07-25,4K Streaming Stick,Electronics,Southeast,1,49.99,49.99
+ORD-10230,2024-07-25,Classic Leather Belt,Clothing,Southeast,1,26.99,26.99
+ORD-10230,2024-07-25,Slim Fit Denim Jeans,Clothing,Southeast,1,49.99,49.99
+ORD-10231,2024-07-27,Hair Dryer Ionic,Beauty & Personal Care,Southeast,2,69.99,139.98
+ORD-10231,2024-07-27,Air Fryer 5L,Home & Kitchen,Southeast,2,99.99,199.98
+ORD-10232,2024-07-28,Electric Kettle,Home & Kitchen,Northeast,1,31.49,31.49
+ORD-10232,2024-07-28,Trail Running Shoes,Sports & Outdoors,Northeast,1,107.99,107.99
+ORD-10233,2024-07-29,Smart Fitness Watch,Electronics,Northeast,2,149.99,299.98
+ORD-10234,2024-08-04,Electric Toothbrush,Beauty & Personal Care,Midwest,3,59.99,179.97
+ORD-10235,2024-08-05,USB-C Fast Charger,Electronics,Midwest,1,22.49,22.49
+ORD-10235,2024-08-05,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,2,21.99,43.98
+ORD-10235,2024-08-05,Smart Fitness Watch,Electronics,Midwest,4,149.99,599.96
+ORD-10236,2024-08-06,Waterproof Rain Jacket,Clothing,Southeast,2,79.99,159.98
+ORD-10237,2024-08-06,Stainless Steel Cookware Set,Home & Kitchen,Southeast,4,129.99,519.96
+ORD-10238,2024-08-08,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10239,2024-08-08,USB-C Fast Charger,Electronics,West,2,24.99,49.98
+ORD-10240,2024-08-09,Wireless Earbuds Pro,Electronics,West,1,89.99,89.99
+ORD-10240,2024-08-09,Vitamin C Face Serum,Beauty & Personal Care,West,1,27.99,27.99
+ORD-10240,2024-08-09,Smart Fitness Watch,Electronics,West,3,149.99,449.97
+ORD-10241,2024-08-10,Stainless Steel Cookware Set,Home & Kitchen,Midwest,1,129.99,129.99
+ORD-10241,2024-08-10,4K Streaming Stick,Electronics,Midwest,2,44.99,89.98
+ORD-10241,2024-08-10,Bluetooth Speaker Mini,Electronics,Midwest,2,35.99,71.98
+ORD-10242,2024-08-10,Merino Wool Socks (3-Pack),Clothing,West,3,16.99,50.97
+ORD-10243,2024-08-10,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10243,2024-08-10,Mystery Novel Collection,Books,Southeast,2,24.99,49.98
+ORD-10243,2024-08-10,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10244,2024-08-11,Bluetooth Speaker Mini,Electronics,Northeast,1,39.99,39.99
+ORD-10244,2024-08-11,4K Streaming Stick,Electronics,Northeast,1,49.99,49.99
+ORD-10244,2024-08-11,Vitamin C Face Serum,Beauty & Personal Care,Northeast,4,27.99,111.96
+ORD-10245,2024-08-11,Vitamin C Face Serum,Beauty & Personal Care,Southwest,4,27.99,111.96
+ORD-10245,2024-08-11,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,3,21.99,65.97
+ORD-10246,2024-08-12,Classic Leather Belt,Clothing,Southwest,2,25.49,50.98
+ORD-10246,2024-08-12,Insulated Water Bottle,Sports & Outdoors,Southwest,3,24.99,74.97
+ORD-10246,2024-08-12,Organic Cotton T-Shirt,Clothing,Southwest,1,19.99,19.99
+ORD-10247,2024-08-13,Smart Fitness Watch,Electronics,Midwest,1,149.99,149.99
+ORD-10248,2024-08-13,Insulated Water Bottle,Sports & Outdoors,Midwest,2,24.99,49.98
+ORD-10249,2024-08-14,Merino Wool Socks (3-Pack),Clothing,West,3,16.99,50.97
+ORD-10249,2024-08-14,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10250,2024-08-15,Bluetooth Speaker Mini,Electronics,West,1,39.99,39.99
+ORD-10250,2024-08-15,Classic Leather Belt,Clothing,West,1,26.99,26.99
+ORD-10251,2024-08-17,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,3,22.99,68.97
+ORD-10252,2024-08-17,Waterproof Rain Jacket,Clothing,West,1,79.99,79.99
+ORD-10252,2024-08-17,Air Fryer 5L,Home & Kitchen,West,1,99.99,99.99
+ORD-10253,2024-08-17,Waterproof Rain Jacket,Clothing,Southeast,1,71.99,71.99
+ORD-10253,2024-08-17,Noise-Cancelling Headphones,Electronics,Southeast,1,229.99,229.99
+ORD-10253,2024-08-17,Bluetooth Speaker Mini,Electronics,Southeast,3,35.99,107.97
+ORD-10254,2024-08-17,World Cuisine Cookbook,Books,Northeast,3,29.99,89.97
+ORD-10255,2024-08-18,Data Science Handbook,Books,Northeast,2,40.49,80.98
+ORD-10255,2024-08-18,Waterproof Rain Jacket,Clothing,Northeast,1,79.99,79.99
+ORD-10255,2024-08-18,Merino Wool Socks (3-Pack),Clothing,Northeast,1,16.99,16.99
+ORD-10256,2024-08-19,Electric Kettle,Home & Kitchen,West,1,29.74,29.74
+ORD-10256,2024-08-19,Smart Fitness Watch,Electronics,West,2,149.99,299.98
+ORD-10257,2024-08-19,Organic Cotton T-Shirt,Clothing,Southwest,4,19.99,79.96
+ORD-10258,2024-08-20,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10259,2024-08-20,USB-C Fast Charger,Electronics,Midwest,1,24.99,24.99
+ORD-10260,2024-08-21,Mindful Productivity Guide,Books,Southeast,4,15.29,61.16
+ORD-10260,2024-08-21,USB-C Fast Charger,Electronics,Southeast,4,22.49,89.96
+ORD-10261,2024-08-22,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,2,152.99,305.98
+ORD-10261,2024-08-22,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10262,2024-08-23,Wireless Earbuds Pro,Electronics,West,3,89.99,269.97
+ORD-10263,2024-08-23,Stainless Steel Cookware Set,Home & Kitchen,Southeast,2,129.99,259.98
+ORD-10264,2024-08-26,USB-C Fast Charger,Electronics,Southeast,2,24.99,49.98
+ORD-10264,2024-08-26,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,2,22.99,45.98
+ORD-10264,2024-08-26,Electric Kettle,Home & Kitchen,Southeast,3,34.99,104.97
+ORD-10265,2024-08-26,Electric Kettle,Home & Kitchen,Southwest,4,34.99,139.96
+ORD-10266,2024-08-26,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10267,2024-08-26,Wireless Earbuds Pro,Electronics,Midwest,3,89.99,269.97
+ORD-10268,2024-08-27,Wireless Earbuds Pro,Electronics,Southwest,2,89.99,179.98
+ORD-10268,2024-08-27,Merino Wool Socks (3-Pack),Clothing,Southwest,3,16.99,50.97
+ORD-10268,2024-08-27,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,25.19,25.19
+ORD-10269,2024-08-27,Wireless Earbuds Pro,Electronics,Northeast,2,89.99,179.98
+ORD-10269,2024-08-27,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10269,2024-08-27,Smart Fitness Watch,Electronics,Northeast,1,149.99,149.99
+ORD-10270,2024-08-29,Bamboo Cutting Board,Home & Kitchen,Northeast,3,17.09,51.27
+ORD-10271,2024-08-31,Electric Kettle,Home & Kitchen,Southwest,3,31.49,94.47
+ORD-10272,2024-09-01,World Cuisine Cookbook,Books,Northeast,2,29.99,59.98
+ORD-10273,2024-09-03,Vitamin C Face Serum,Beauty & Personal Care,Southwest,4,27.99,111.96
+ORD-10274,2024-09-05,Noise-Cancelling Headphones,Electronics,Northeast,3,229.99,689.97
+ORD-10275,2024-09-06,Slim Fit Denim Jeans,Clothing,West,2,49.99,99.98
+ORD-10275,2024-09-06,Vitamin C Face Serum,Beauty & Personal Care,West,1,27.99,27.99
+ORD-10276,2024-09-06,Data Science Handbook,Books,West,2,38.24,76.48
+ORD-10276,2024-09-06,Hair Dryer Ionic,Beauty & Personal Care,West,1,59.49,59.49
+ORD-10277,2024-09-07,Merino Wool Socks (3-Pack),Clothing,Midwest,1,16.99,16.99
+ORD-10278,2024-09-10,Smart Fitness Watch,Electronics,Southeast,2,134.99,269.98
+ORD-10279,2024-09-10,Organic Cotton T-Shirt,Clothing,Southwest,2,19.99,39.98
+ORD-10280,2024-09-11,4K Streaming Stick,Electronics,Northeast,3,49.99,149.97
+ORD-10280,2024-09-11,Trail Running Shoes,Sports & Outdoors,Northeast,3,107.99,323.97
+ORD-10281,2024-09-12,Trail Running Shoes,Sports & Outdoors,Southeast,1,107.99,107.99
+ORD-10281,2024-09-12,Electric Toothbrush,Beauty & Personal Care,Southeast,2,50.99,101.98
+ORD-10282,2024-09-13,Camping Tent 2-Person,Sports & Outdoors,Southeast,4,139.99,559.96
+ORD-10282,2024-09-13,Organic Cotton T-Shirt,Clothing,Southeast,4,19.99,79.96
+ORD-10283,2024-09-16,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,2,21.99,43.98
+ORD-10284,2024-09-16,Electric Toothbrush,Beauty & Personal Care,Southeast,1,53.99,53.99
+ORD-10285,2024-09-16,Slim Fit Denim Jeans,Clothing,Northeast,1,49.99,49.99
+ORD-10286,2024-09-18,Classic Leather Belt,Clothing,Southeast,2,29.99,59.98
+ORD-10287,2024-09-18,Camping Tent 2-Person,Sports & Outdoors,Midwest,2,125.99,251.98
+ORD-10287,2024-09-18,Air Fryer 5L,Home & Kitchen,Midwest,3,99.99,299.97
+ORD-10288,2024-09-19,Camping Tent 2-Person,Sports & Outdoors,Midwest,1,139.99,139.99
+ORD-10289,2024-09-19,World Cuisine Cookbook,Books,Southeast,1,29.99,29.99
+ORD-10290,2024-09-20,Hair Dryer Ionic,Beauty & Personal Care,West,2,69.99,139.98
+ORD-10290,2024-09-20,USB-C Fast Charger,Electronics,West,1,22.49,22.49
+ORD-10290,2024-09-20,Natural Shampoo & Conditioner,Beauty & Personal Care,West,3,21.99,65.97
+ORD-10291,2024-09-21,Trail Running Shoes,Sports & Outdoors,Southeast,2,107.99,215.98
+ORD-10291,2024-09-21,Slim Fit Denim Jeans,Clothing,Southeast,1,49.99,49.99
+ORD-10292,2024-09-21,Stainless Steel Cookware Set,Home & Kitchen,Southwest,1,129.99,129.99
+ORD-10292,2024-09-21,USB-C Fast Charger,Electronics,Southwest,1,21.24,21.24
+ORD-10292,2024-09-21,Hair Dryer Ionic,Beauty & Personal Care,Southwest,2,69.99,139.98
+ORD-10293,2024-09-21,Electric Toothbrush,Beauty & Personal Care,Midwest,1,59.99,59.99
+ORD-10294,2024-09-23,Electric Toothbrush,Beauty & Personal Care,Northeast,1,59.99,59.99
+ORD-10294,2024-09-23,USB-C Fast Charger,Electronics,Northeast,2,24.99,49.98
+ORD-10295,2024-09-24,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,4,22.99,91.96
+ORD-10296,2024-09-24,Waterproof Rain Jacket,Clothing,Midwest,1,79.99,79.99
+ORD-10297,2024-09-24,USB-C Fast Charger,Electronics,Northeast,2,24.99,49.98
+ORD-10297,2024-09-24,Vitamin C Face Serum,Beauty & Personal Care,Northeast,2,27.99,55.98
+ORD-10298,2024-09-27,Wireless Earbuds Pro,Electronics,Northeast,3,89.99,269.97
+ORD-10299,2024-09-28,Smart Fitness Watch,Electronics,Southwest,1,134.99,134.99
+ORD-10299,2024-09-28,Data Science Handbook,Books,Southwest,3,44.99,134.97
+ORD-10300,2024-09-29,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,3,179.99,539.97
+ORD-10301,2024-09-30,World Cuisine Cookbook,Books,Southeast,4,29.99,119.96
+ORD-10302,2024-09-30,Mystery Novel Collection,Books,Southwest,1,22.49,22.49
+ORD-10302,2024-09-30,USB-C Fast Charger,Electronics,Southwest,3,24.99,74.97
+ORD-10303,2024-09-30,Adjustable Dumbbell Pair,Sports & Outdoors,West,2,179.99,359.98
+ORD-10304,2024-10-01,Bluetooth Speaker Mini,Electronics,Northeast,2,39.99,79.98
+ORD-10305,2024-10-01,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10306,2024-10-01,Natural Shampoo & Conditioner,Beauty & Personal Care,West,2,21.99,43.98
+ORD-10307,2024-10-03,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,3,21.99,65.97
+ORD-10307,2024-10-03,Classic Leather Belt,Clothing,Southwest,1,26.99,26.99
+ORD-10307,2024-10-03,Yoga Mat Premium,Sports & Outdoors,Southwest,1,34.99,34.99
+ORD-10308,2024-10-03,Bluetooth Speaker Mini,Electronics,Northeast,4,39.99,159.96
+ORD-10309,2024-10-05,4K Streaming Stick,Electronics,Southeast,1,44.99,44.99
+ORD-10309,2024-10-05,USB-C Fast Charger,Electronics,Southeast,1,24.99,24.99
+ORD-10310,2024-10-05,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10311,2024-10-05,Electric Kettle,Home & Kitchen,Southeast,1,29.74,29.74
+ORD-10311,2024-10-05,Insulated Water Bottle,Sports & Outdoors,Southeast,4,24.99,99.96
+ORD-10311,2024-10-05,Smart Fitness Watch,Electronics,Southeast,4,149.99,599.96
+ORD-10312,2024-10-05,Camping Tent 2-Person,Sports & Outdoors,Northeast,4,139.99,559.96
+ORD-10312,2024-10-05,Noise-Cancelling Headphones,Electronics,Northeast,2,206.99,413.98
+ORD-10313,2024-10-05,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,2,179.99,359.98
+ORD-10313,2024-10-05,Electric Kettle,Home & Kitchen,Southwest,1,31.49,31.49
+ORD-10314,2024-10-07,Stainless Steel Cookware Set,Home & Kitchen,Southeast,3,129.99,389.97
+ORD-10315,2024-10-07,Vitamin C Face Serum,Beauty & Personal Care,Northeast,1,27.99,27.99
+ORD-10316,2024-10-07,Electric Toothbrush,Beauty & Personal Care,Southeast,1,53.99,53.99
+ORD-10317,2024-10-08,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10317,2024-10-08,Vitamin C Face Serum,Beauty & Personal Care,West,4,27.99,111.96
+ORD-10318,2024-10-09,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10319,2024-10-11,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10320,2024-10-11,Stainless Steel Cookware Set,Home & Kitchen,Midwest,1,129.99,129.99
+ORD-10321,2024-10-12,Bamboo Cutting Board,Home & Kitchen,Northeast,1,18.99,18.99
+ORD-10322,2024-10-13,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10323,2024-10-13,Wireless Earbuds Pro,Electronics,Midwest,2,89.99,179.98
+ORD-10324,2024-10-14,Mystery Novel Collection,Books,Northeast,4,24.99,99.96
+ORD-10325,2024-10-14,Bluetooth Speaker Mini,Electronics,Southwest,4,39.99,159.96
+ORD-10325,2024-10-14,Mystery Novel Collection,Books,Southwest,2,24.99,49.98
+ORD-10325,2024-10-14,4K Streaming Stick,Electronics,Southwest,2,49.99,99.98
+ORD-10326,2024-10-14,Adjustable Dumbbell Pair,Sports & Outdoors,West,4,152.99,611.96
+ORD-10327,2024-10-16,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10327,2024-10-16,Trail Running Shoes,Sports & Outdoors,Northeast,2,119.99,239.98
+ORD-10327,2024-10-16,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10328,2024-10-16,Trail Running Shoes,Sports & Outdoors,West,1,101.99,101.99
+ORD-10329,2024-10-16,Insulated Water Bottle,Sports & Outdoors,Northeast,2,24.99,49.98
+ORD-10330,2024-10-16,Air Fryer 5L,Home & Kitchen,Southwest,1,99.99,99.99
+ORD-10331,2024-10-16,Merino Wool Socks (3-Pack),Clothing,Midwest,3,16.99,50.97
+ORD-10332,2024-10-17,Smart Fitness Watch,Electronics,Midwest,4,149.99,599.96
+ORD-10333,2024-10-17,Noise-Cancelling Headphones,Electronics,Northeast,2,229.99,459.98
+ORD-10333,2024-10-17,Electric Toothbrush,Beauty & Personal Care,Northeast,1,59.99,59.99
+ORD-10333,2024-10-17,USB-C Fast Charger,Electronics,Northeast,2,21.24,42.48
+ORD-10334,2024-10-17,Vitamin C Face Serum,Beauty & Personal Care,West,3,27.99,83.97
+ORD-10335,2024-10-18,Ceramic Coffee Mug Set,Home & Kitchen,West,2,22.99,45.98
+ORD-10336,2024-10-20,Electric Toothbrush,Beauty & Personal Care,Southeast,1,59.99,59.99
+ORD-10336,2024-10-20,Mystery Novel Collection,Books,Southeast,1,24.99,24.99
+ORD-10336,2024-10-20,Bluetooth Speaker Mini,Electronics,Southeast,1,39.99,39.99
+ORD-10337,2024-10-20,USB-C Fast Charger,Electronics,Southeast,1,24.99,24.99
+ORD-10338,2024-10-20,Waterproof Rain Jacket,Clothing,Northeast,2,79.99,159.98
+ORD-10338,2024-10-20,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,19.79,19.79
+ORD-10338,2024-10-20,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,3,179.99,539.97
+ORD-10339,2024-10-22,Yoga Mat Premium,Sports & Outdoors,Southeast,1,34.99,34.99
+ORD-10340,2024-10-23,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10341,2024-10-24,Ceramic Coffee Mug Set,Home & Kitchen,West,4,22.99,91.96
+ORD-10341,2024-10-24,Merino Wool Socks (3-Pack),Clothing,West,2,16.99,33.98
+ORD-10342,2024-10-25,Bluetooth Speaker Mini,Electronics,Northeast,2,39.99,79.98
+ORD-10342,2024-10-25,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10342,2024-10-25,Classic Leather Belt,Clothing,Northeast,1,29.99,29.99
+ORD-10343,2024-10-26,Vitamin C Face Serum,Beauty & Personal Care,Northeast,3,27.99,83.97
+ORD-10344,2024-10-27,Insulated Water Bottle,Sports & Outdoors,West,4,21.24,84.96
+ORD-10344,2024-10-27,Electric Kettle,Home & Kitchen,West,2,34.99,69.98
+ORD-10345,2024-10-27,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10346,2024-10-28,USB-C Fast Charger,Electronics,Midwest,3,24.99,74.97
+ORD-10347,2024-10-29,Bamboo Cutting Board,Home & Kitchen,West,2,18.99,37.98
+ORD-10348,2024-10-29,Mystery Novel Collection,Books,Southeast,3,24.99,74.97
+ORD-10349,2024-11-01,4K Streaming Stick,Electronics,Southwest,2,39.99,79.98
+ORD-10350,2024-11-01,Vitamin C Face Serum,Beauty & Personal Care,West,2,23.79,47.58
+ORD-10351,2024-11-02,Stainless Steel Cookware Set,Home & Kitchen,Southwest,3,103.99,311.97
+ORD-10351,2024-11-02,Data Science Handbook,Books,Southwest,2,35.99,71.98
+ORD-10351,2024-11-02,Bluetooth Speaker Mini,Electronics,Southwest,1,39.99,39.99
+ORD-10352,2024-11-02,Stainless Steel Cookware Set,Home & Kitchen,Midwest,1,116.99,116.99
+ORD-10353,2024-11-02,USB-C Fast Charger,Electronics,Midwest,1,24.99,24.99
+ORD-10354,2024-11-03,Trail Running Shoes,Sports & Outdoors,West,3,107.99,323.97
+ORD-10354,2024-11-03,Hair Dryer Ionic,Beauty & Personal Care,West,1,69.99,69.99
+ORD-10355,2024-11-03,Insulated Water Bottle,Sports & Outdoors,Northeast,2,19.99,39.98
+ORD-10356,2024-11-03,Organic Cotton T-Shirt,Clothing,Southeast,3,15.99,47.97
+ORD-10357,2024-11-03,World Cuisine Cookbook,Books,West,2,29.99,59.98
+ORD-10357,2024-11-03,Slim Fit Denim Jeans,Clothing,West,1,49.99,49.99
+ORD-10358,2024-11-05,World Cuisine Cookbook,Books,West,1,23.99,23.99
+ORD-10359,2024-11-05,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,2,152.99,305.98
+ORD-10360,2024-11-05,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10360,2024-11-05,Organic Cotton T-Shirt,Clothing,Southeast,3,19.99,59.97
+ORD-10361,2024-11-06,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10362,2024-11-10,Bluetooth Speaker Mini,Electronics,Northeast,2,33.99,67.98
+ORD-10363,2024-11-13,Wireless Earbuds Pro,Electronics,West,2,71.99,143.98
+ORD-10364,2024-11-13,Vitamin C Face Serum,Beauty & Personal Care,West,1,27.99,27.99
+ORD-10365,2024-11-13,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,17.59,17.59
+ORD-10366,2024-11-15,4K Streaming Stick,Electronics,Southwest,1,49.99,49.99
+ORD-10366,2024-11-15,Wireless Earbuds Pro,Electronics,Southwest,2,89.99,179.98
+ORD-10367,2024-11-15,Mindful Productivity Guide,Books,Northeast,2,13.59,27.18
+ORD-10368,2024-11-15,Yoga Mat Premium,Sports & Outdoors,Northeast,1,34.99,34.99
+ORD-10368,2024-11-15,Insulated Water Bottle,Sports & Outdoors,Northeast,2,19.99,39.98
+ORD-10369,2024-11-16,Mystery Novel Collection,Books,Southwest,1,19.99,19.99
+ORD-10369,2024-11-16,Insulated Water Bottle,Sports & Outdoors,Southwest,3,19.99,59.97
+ORD-10370,2024-11-16,Slim Fit Denim Jeans,Clothing,West,1,49.99,49.99
+ORD-10371,2024-11-16,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,69.99,139.98
+ORD-10371,2024-11-16,USB-C Fast Charger,Electronics,Northeast,1,19.99,19.99
+ORD-10372,2024-11-18,Merino Wool Socks (3-Pack),Clothing,Southwest,2,13.59,27.18
+ORD-10373,2024-11-18,Mindful Productivity Guide,Books,West,1,16.99,16.99
+ORD-10373,2024-11-18,Adjustable Dumbbell Pair,Sports & Outdoors,West,1,179.99,179.99
+ORD-10373,2024-11-18,Bamboo Cutting Board,Home & Kitchen,West,1,15.19,15.19
+ORD-10374,2024-11-18,Vitamin C Face Serum,Beauty & Personal Care,Midwest,1,27.99,27.99
+ORD-10375,2024-11-18,Electric Toothbrush,Beauty & Personal Care,Southeast,1,47.99,47.99
+ORD-10376,2024-11-19,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10376,2024-11-19,4K Streaming Stick,Electronics,Northeast,2,39.99,79.98
+ORD-10377,2024-11-19,USB-C Fast Charger,Electronics,Northeast,2,24.99,49.98
+ORD-10378,2024-11-20,Merino Wool Socks (3-Pack),Clothing,Southeast,4,16.99,67.96
+ORD-10378,2024-11-20,Mindful Productivity Guide,Books,Southeast,4,13.59,54.36
+ORD-10379,2024-11-20,Mystery Novel Collection,Books,West,2,24.99,49.98
+ORD-10380,2024-11-20,Electric Toothbrush,Beauty & Personal Care,Midwest,1,47.99,47.99
+ORD-10381,2024-11-21,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10382,2024-11-22,4K Streaming Stick,Electronics,Southeast,4,42.49,169.96
+ORD-10383,2024-11-22,Adjustable Dumbbell Pair,Sports & Outdoors,West,3,143.99,431.97
+ORD-10384,2024-11-23,Merino Wool Socks (3-Pack),Clothing,West,1,13.59,13.59
+ORD-10385,2024-11-23,Bluetooth Speaker Mini,Electronics,Northeast,1,31.99,31.99
+ORD-10386,2024-11-24,Bluetooth Speaker Mini,Electronics,Southwest,1,31.99,31.99
+ORD-10387,2024-11-25,Slim Fit Denim Jeans,Clothing,Midwest,2,39.99,79.98
+ORD-10388,2024-11-25,Wireless Earbuds Pro,Electronics,Midwest,1,89.99,89.99
+ORD-10389,2024-11-26,Wireless Earbuds Pro,Electronics,West,4,71.99,287.96
+ORD-10389,2024-11-26,Smart Fitness Watch,Electronics,West,1,119.99,119.99
+ORD-10390,2024-11-27,Electric Kettle,Home & Kitchen,Midwest,1,27.99,27.99
+ORD-10391,2024-11-27,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,18.39,18.39
+ORD-10392,2024-11-30,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,17.59,17.59
+ORD-10393,2024-11-30,World Cuisine Cookbook,Books,Midwest,2,29.99,59.98
+ORD-10394,2024-11-30,Waterproof Rain Jacket,Clothing,Southeast,1,71.99,71.99
+ORD-10395,2024-11-30,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,17.59,17.59
+ORD-10396,2024-12-01,Classic Leather Belt,Clothing,Southwest,1,29.99,29.99
+ORD-10396,2024-12-01,Vitamin C Face Serum,Beauty & Personal Care,Southwest,4,27.99,111.96
+ORD-10397,2024-12-01,Slim Fit Denim Jeans,Clothing,Northeast,1,49.99,49.99
+ORD-10398,2024-12-01,Insulated Water Bottle,Sports & Outdoors,Midwest,1,24.99,24.99
+ORD-10399,2024-12-01,Classic Leather Belt,Clothing,Southeast,2,29.99,59.98
+ORD-10400,2024-12-02,Adjustable Dumbbell Pair,Sports & Outdoors,Southeast,1,161.99,161.99
+ORD-10400,2024-12-02,USB-C Fast Charger,Electronics,Southeast,2,24.99,49.98
+ORD-10401,2024-12-02,Waterproof Rain Jacket,Clothing,West,3,79.99,239.97
+ORD-10402,2024-12-02,World Cuisine Cookbook,Books,West,1,29.99,29.99
+ORD-10403,2024-12-03,Merino Wool Socks (3-Pack),Clothing,West,4,14.44,57.76
+ORD-10403,2024-12-03,4K Streaming Stick,Electronics,West,2,49.99,99.98
+ORD-10403,2024-12-03,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10404,2024-12-04,Wireless Earbuds Pro,Electronics,Southwest,1,89.99,89.99
+ORD-10404,2024-12-04,Camping Tent 2-Person,Sports & Outdoors,Southwest,3,139.99,419.97
+ORD-10404,2024-12-04,Mindful Productivity Guide,Books,Southwest,1,16.99,16.99
+ORD-10405,2024-12-05,Waterproof Rain Jacket,Clothing,Northeast,1,71.99,71.99
+ORD-10405,2024-12-05,Data Science Handbook,Books,Northeast,4,44.99,179.96
+ORD-10406,2024-12-05,Bluetooth Speaker Mini,Electronics,Southeast,3,39.99,119.97
+ORD-10407,2024-12-06,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,2,22.99,45.98
+ORD-10408,2024-12-07,Smart Fitness Watch,Electronics,Southwest,1,149.99,149.99
+ORD-10408,2024-12-07,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,4,21.99,87.96
+ORD-10409,2024-12-07,Waterproof Rain Jacket,Clothing,Southeast,2,71.99,143.98
+ORD-10410,2024-12-07,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10410,2024-12-07,Mystery Novel Collection,Books,West,3,24.99,74.97
+ORD-10411,2024-12-07,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10412,2024-12-07,Wireless Earbuds Pro,Electronics,Southeast,4,80.99,323.96
+ORD-10413,2024-12-08,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,25.19,25.19
+ORD-10413,2024-12-08,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,1,22.99,22.99
+ORD-10414,2024-12-08,Mystery Novel Collection,Books,Northeast,2,22.49,44.98
+ORD-10415,2024-12-09,Wireless Earbuds Pro,Electronics,West,2,89.99,179.98
+ORD-10415,2024-12-09,Electric Toothbrush,Beauty & Personal Care,West,3,59.99,179.97
+ORD-10415,2024-12-09,Organic Cotton T-Shirt,Clothing,West,3,17.99,53.97
+ORD-10416,2024-12-09,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,3,19.54,58.62
+ORD-10417,2024-12-09,Merino Wool Socks (3-Pack),Clothing,Southeast,2,16.99,33.98
+ORD-10418,2024-12-10,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10418,2024-12-10,Merino Wool Socks (3-Pack),Clothing,Southeast,1,15.29,15.29
+ORD-10419,2024-12-10,Vitamin C Face Serum,Beauty & Personal Care,Midwest,2,27.99,55.98
+ORD-10419,2024-12-10,Insulated Water Bottle,Sports & Outdoors,Midwest,3,24.99,74.97
+ORD-10420,2024-12-11,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,21.99,21.99
+ORD-10421,2024-12-11,Trail Running Shoes,Sports & Outdoors,Northeast,1,107.99,107.99
+ORD-10421,2024-12-11,Vitamin C Face Serum,Beauty & Personal Care,Northeast,1,27.99,27.99
+ORD-10422,2024-12-11,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,4,179.99,719.96
+ORD-10423,2024-12-12,Insulated Water Bottle,Sports & Outdoors,Midwest,3,21.24,63.72
+ORD-10423,2024-12-12,Electric Kettle,Home & Kitchen,Midwest,2,29.74,59.48
+ORD-10424,2024-12-12,Vitamin C Face Serum,Beauty & Personal Care,West,2,27.99,55.98
+ORD-10424,2024-12-12,Yoga Mat Premium,Sports & Outdoors,West,3,34.99,104.97
+ORD-10424,2024-12-12,USB-C Fast Charger,Electronics,West,3,22.49,67.47
+ORD-10425,2024-12-12,Waterproof Rain Jacket,Clothing,Northeast,4,79.99,319.96
+ORD-10426,2024-12-12,Slim Fit Denim Jeans,Clothing,Northeast,2,49.99,99.98
+ORD-10426,2024-12-12,Smart Fitness Watch,Electronics,Northeast,1,149.99,149.99
+ORD-10427,2024-12-15,Noise-Cancelling Headphones,Electronics,Southwest,2,229.99,459.98
+ORD-10427,2024-12-15,Classic Leather Belt,Clothing,Southwest,1,26.99,26.99
+ORD-10428,2024-12-16,Noise-Cancelling Headphones,Electronics,Midwest,1,229.99,229.99
+ORD-10428,2024-12-16,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,1,19.54,19.54
+ORD-10429,2024-12-17,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,69.99,139.98
+ORD-10429,2024-12-17,Merino Wool Socks (3-Pack),Clothing,Northeast,1,16.99,16.99
+ORD-10430,2024-12-17,Mindful Productivity Guide,Books,West,2,16.99,33.98
+ORD-10431,2024-12-17,Waterproof Rain Jacket,Clothing,Midwest,4,67.99,271.96
+ORD-10431,2024-12-17,Data Science Handbook,Books,Midwest,1,40.49,40.49
+ORD-10432,2024-12-18,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,19.79,19.79
+ORD-10433,2024-12-18,Organic Cotton T-Shirt,Clothing,Northeast,1,19.99,19.99
+ORD-10434,2024-12-19,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,116.99,116.99
+ORD-10434,2024-12-19,Camping Tent 2-Person,Sports & Outdoors,Southeast,1,125.99,125.99
+ORD-10435,2024-12-19,Mindful Productivity Guide,Books,Southeast,4,16.99,67.96
+ORD-10435,2024-12-19,Electric Toothbrush,Beauty & Personal Care,Southeast,1,53.99,53.99
+ORD-10436,2024-12-20,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,2,22.99,45.98
+ORD-10436,2024-12-20,Electric Toothbrush,Beauty & Personal Care,Southeast,1,50.99,50.99
+ORD-10437,2024-12-20,World Cuisine Cookbook,Books,West,2,29.99,59.98
+ORD-10437,2024-12-20,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10438,2024-12-20,Wireless Earbuds Pro,Electronics,Northeast,2,89.99,179.98
+ORD-10438,2024-12-20,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10438,2024-12-20,Stainless Steel Cookware Set,Home & Kitchen,Northeast,1,129.99,129.99
+ORD-10439,2024-12-20,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10440,2024-12-20,World Cuisine Cookbook,Books,Northeast,2,29.99,59.98
+ORD-10441,2024-12-21,Insulated Water Bottle,Sports & Outdoors,Midwest,2,22.49,44.98
+ORD-10441,2024-12-21,Merino Wool Socks (3-Pack),Clothing,Midwest,1,16.99,16.99
+ORD-10442,2024-12-21,World Cuisine Cookbook,Books,Northeast,2,29.99,59.98
+ORD-10443,2024-12-21,Smart Fitness Watch,Electronics,Southeast,2,149.99,299.98
+ORD-10444,2024-12-22,Electric Kettle,Home & Kitchen,West,3,34.99,104.97
+ORD-10445,2024-12-22,Smart Fitness Watch,Electronics,West,2,149.99,299.98
+ORD-10446,2024-12-24,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,3,21.99,65.97
+ORD-10447,2024-12-25,4K Streaming Stick,Electronics,Northeast,3,49.99,149.97
+ORD-10448,2024-12-25,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,69.99,69.99
+ORD-10449,2024-12-25,Data Science Handbook,Books,Northeast,1,44.99,44.99
+ORD-10449,2024-12-25,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10449,2024-12-25,Stainless Steel Cookware Set,Home & Kitchen,Northeast,4,129.99,519.96
+ORD-10450,2024-12-25,Electric Kettle,Home & Kitchen,Southeast,1,34.99,34.99
+ORD-10451,2024-12-26,Ceramic Coffee Mug Set,Home & Kitchen,West,1,22.99,22.99
+ORD-10451,2024-12-26,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10452,2024-12-27,Slim Fit Denim Jeans,Clothing,Northeast,1,49.99,49.99
+ORD-10453,2024-12-27,Yoga Mat Premium,Sports & Outdoors,Southeast,1,34.99,34.99
+ORD-10453,2024-12-27,Bamboo Cutting Board,Home & Kitchen,Southeast,2,18.99,37.98
+ORD-10453,2024-12-27,Wireless Earbuds Pro,Electronics,Southeast,1,80.99,80.99
+ORD-10454,2024-12-28,Wireless Earbuds Pro,Electronics,Southeast,2,89.99,179.98
+ORD-10455,2024-12-28,Classic Leather Belt,Clothing,West,1,29.99,29.99
+ORD-10456,2024-12-28,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10457,2024-12-28,Vitamin C Face Serum,Beauty & Personal Care,Southwest,2,25.19,50.38
+ORD-10457,2024-12-28,Mystery Novel Collection,Books,Southwest,4,22.49,89.96
+ORD-10458,2024-12-29,Mindful Productivity Guide,Books,Southwest,3,16.99,50.97
+ORD-10458,2024-12-29,Slim Fit Denim Jeans,Clothing,Southwest,2,44.99,89.98
+ORD-10459,2024-12-29,Electric Toothbrush,Beauty & Personal Care,Southeast,2,59.99,119.98
+ORD-10459,2024-12-29,World Cuisine Cookbook,Books,Southeast,2,26.99,53.98
+ORD-10460,2024-12-29,Classic Leather Belt,Clothing,West,2,29.99,59.98
+ORD-10460,2024-12-29,USB-C Fast Charger,Electronics,West,2,22.49,44.98
+ORD-10460,2024-12-29,Mystery Novel Collection,Books,West,3,24.99,74.97
+ORD-10461,2024-12-30,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,3,21.99,65.97
+ORD-10462,2024-12-31,Hair Dryer Ionic,Beauty & Personal Care,Southwest,2,69.99,139.98
+ORD-10463,2024-12-31,Waterproof Rain Jacket,Clothing,Northeast,3,71.99,215.97
+ORD-10464,2025-01-02,Electric Kettle,Home & Kitchen,Midwest,2,34.99,69.98
+ORD-10465,2025-01-02,Mystery Novel Collection,Books,West,2,24.99,49.98
+ORD-10466,2025-01-03,Electric Toothbrush,Beauty & Personal Care,Southeast,1,59.99,59.99
+ORD-10467,2025-01-04,Yoga Mat Premium,Sports & Outdoors,Southeast,1,34.99,34.99
+ORD-10467,2025-01-04,Mindful Productivity Guide,Books,Southeast,4,15.29,61.16
+ORD-10468,2025-01-04,Trail Running Shoes,Sports & Outdoors,West,2,107.99,215.98
+ORD-10469,2025-01-05,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,18.69,18.69
+ORD-10470,2025-01-05,Mindful Productivity Guide,Books,Northeast,1,16.99,16.99
+ORD-10471,2025-01-06,Noise-Cancelling Headphones,Electronics,Southeast,4,229.99,919.96
+ORD-10471,2025-01-06,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,3,22.99,68.97
+ORD-10472,2025-01-06,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,27.99,27.99
+ORD-10472,2025-01-06,Organic Cotton T-Shirt,Clothing,Southwest,1,19.99,19.99
+ORD-10473,2025-01-06,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10474,2025-01-07,Mindful Productivity Guide,Books,Southwest,4,16.99,67.96
+ORD-10474,2025-01-07,Electric Toothbrush,Beauty & Personal Care,Southwest,2,59.99,119.98
+ORD-10475,2025-01-08,Bamboo Cutting Board,Home & Kitchen,Northeast,4,18.99,75.96
+ORD-10476,2025-01-11,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,27.99,27.99
+ORD-10476,2025-01-11,Yoga Mat Premium,Sports & Outdoors,Southwest,2,34.99,69.98
+ORD-10477,2025-01-11,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,1,19.54,19.54
+ORD-10478,2025-01-11,Yoga Mat Premium,Sports & Outdoors,Southwest,3,34.99,104.97
+ORD-10479,2025-01-13,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10480,2025-01-13,Insulated Water Bottle,Sports & Outdoors,West,4,24.99,99.96
+ORD-10481,2025-01-14,Waterproof Rain Jacket,Clothing,Midwest,2,79.99,159.98
+ORD-10481,2025-01-14,Camping Tent 2-Person,Sports & Outdoors,Midwest,1,139.99,139.99
+ORD-10481,2025-01-14,Trail Running Shoes,Sports & Outdoors,Midwest,1,119.99,119.99
+ORD-10482,2025-01-15,Yoga Mat Premium,Sports & Outdoors,Southeast,1,31.49,31.49
+ORD-10483,2025-01-16,Smart Fitness Watch,Electronics,Southeast,1,149.99,149.99
+ORD-10483,2025-01-16,Slim Fit Denim Jeans,Clothing,Southeast,4,49.99,199.96
+ORD-10484,2025-01-17,Merino Wool Socks (3-Pack),Clothing,West,2,16.99,33.98
+ORD-10485,2025-01-18,Air Fryer 5L,Home & Kitchen,Southwest,3,99.99,299.97
+ORD-10486,2025-01-18,Organic Cotton T-Shirt,Clothing,Northeast,1,19.99,19.99
+ORD-10486,2025-01-18,Wireless Earbuds Pro,Electronics,Northeast,3,89.99,269.97
+ORD-10486,2025-01-18,World Cuisine Cookbook,Books,Northeast,1,26.99,26.99
+ORD-10487,2025-01-19,Mystery Novel Collection,Books,Southwest,1,21.24,21.24
+ORD-10488,2025-01-19,Stainless Steel Cookware Set,Home & Kitchen,West,1,129.99,129.99
+ORD-10488,2025-01-19,USB-C Fast Charger,Electronics,West,2,21.24,42.48
+ORD-10488,2025-01-19,Insulated Water Bottle,Sports & Outdoors,West,2,24.99,49.98
+ORD-10489,2025-01-19,USB-C Fast Charger,Electronics,Southeast,2,24.99,49.98
+ORD-10490,2025-01-24,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10490,2025-01-24,Bamboo Cutting Board,Home & Kitchen,West,1,17.09,17.09
+ORD-10491,2025-01-26,Waterproof Rain Jacket,Clothing,Midwest,3,71.99,215.97
+ORD-10491,2025-01-26,Slim Fit Denim Jeans,Clothing,Midwest,1,49.99,49.99
+ORD-10492,2025-01-26,Merino Wool Socks (3-Pack),Clothing,Southeast,1,16.99,16.99
+ORD-10493,2025-01-27,Hair Dryer Ionic,Beauty & Personal Care,Southeast,1,59.49,59.49
+ORD-10494,2025-01-27,Merino Wool Socks (3-Pack),Clothing,Northeast,1,15.29,15.29
+ORD-10495,2025-01-28,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10495,2025-01-28,Classic Leather Belt,Clothing,Northeast,1,29.99,29.99
+ORD-10495,2025-01-28,Waterproof Rain Jacket,Clothing,Northeast,2,79.99,159.98
+ORD-10496,2025-01-28,Smart Fitness Watch,Electronics,Midwest,1,149.99,149.99
+ORD-10497,2025-01-29,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10498,2025-01-30,Electric Kettle,Home & Kitchen,Northeast,4,29.74,118.96
+ORD-10498,2025-01-30,Organic Cotton T-Shirt,Clothing,Northeast,2,19.99,39.98
+ORD-10499,2025-01-31,Mystery Novel Collection,Books,Northeast,4,21.24,84.96
+ORD-10500,2025-01-31,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10501,2025-02-02,Bluetooth Speaker Mini,Electronics,Southeast,1,39.99,39.99
+ORD-10502,2025-02-03,USB-C Fast Charger,Electronics,Northeast,2,24.99,49.98
+ORD-10503,2025-02-05,Smart Fitness Watch,Electronics,Midwest,4,149.99,599.96
+ORD-10504,2025-02-07,Slim Fit Denim Jeans,Clothing,Northeast,4,49.99,199.96
+ORD-10505,2025-02-08,Noise-Cancelling Headphones,Electronics,Midwest,2,229.99,459.98
+ORD-10506,2025-02-10,Slim Fit Denim Jeans,Clothing,Northeast,1,42.49,42.49
+ORD-10507,2025-02-11,Smart Fitness Watch,Electronics,West,4,149.99,599.96
+ORD-10508,2025-02-11,Bluetooth Speaker Mini,Electronics,Northeast,3,39.99,119.97
+ORD-10509,2025-02-11,Air Fryer 5L,Home & Kitchen,Northeast,2,99.99,199.98
+ORD-10509,2025-02-11,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10510,2025-02-13,USB-C Fast Charger,Electronics,Midwest,2,24.99,49.98
+ORD-10511,2025-02-14,Mindful Productivity Guide,Books,Southeast,2,16.99,33.98
+ORD-10512,2025-02-15,Organic Cotton T-Shirt,Clothing,Midwest,1,19.99,19.99
+ORD-10513,2025-02-15,4K Streaming Stick,Electronics,Southwest,1,44.99,44.99
+ORD-10514,2025-02-20,Adjustable Dumbbell Pair,Sports & Outdoors,West,1,161.99,161.99
+ORD-10514,2025-02-20,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10514,2025-02-20,Slim Fit Denim Jeans,Clothing,West,2,49.99,99.98
+ORD-10515,2025-02-20,Bamboo Cutting Board,Home & Kitchen,Midwest,2,17.09,34.18
+ORD-10516,2025-02-21,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10516,2025-02-21,Vitamin C Face Serum,Beauty & Personal Care,Southeast,2,27.99,55.98
+ORD-10517,2025-02-22,Electric Kettle,Home & Kitchen,Southeast,4,34.99,139.96
+ORD-10518,2025-02-22,Insulated Water Bottle,Sports & Outdoors,Southwest,2,22.49,44.98
+ORD-10518,2025-02-22,Merino Wool Socks (3-Pack),Clothing,Southwest,3,16.99,50.97
+ORD-10518,2025-02-22,Organic Cotton T-Shirt,Clothing,Southwest,1,19.99,19.99
+ORD-10519,2025-02-22,Trail Running Shoes,Sports & Outdoors,West,4,119.99,479.96
+ORD-10519,2025-02-22,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10519,2025-02-22,Classic Leather Belt,Clothing,West,3,29.99,89.97
+ORD-10520,2025-02-23,Bamboo Cutting Board,Home & Kitchen,West,1,18.99,18.99
+ORD-10521,2025-02-24,Bamboo Cutting Board,Home & Kitchen,Northeast,2,18.99,37.98
+ORD-10522,2025-02-25,Organic Cotton T-Shirt,Clothing,Midwest,1,19.99,19.99
+ORD-10523,2025-02-26,Merino Wool Socks (3-Pack),Clothing,Southwest,1,14.44,14.44
+ORD-10524,2025-02-28,Smart Fitness Watch,Electronics,Midwest,2,149.99,299.98
+ORD-10525,2025-02-28,4K Streaming Stick,Electronics,West,1,49.99,49.99
+ORD-10525,2025-02-28,Noise-Cancelling Headphones,Electronics,West,1,229.99,229.99
+ORD-10526,2025-02-28,Electric Kettle,Home & Kitchen,Southwest,2,34.99,69.98
+ORD-10526,2025-02-28,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10526,2025-02-28,Merino Wool Socks (3-Pack),Clothing,Southwest,4,16.99,67.96
+ORD-10527,2025-03-01,Waterproof Rain Jacket,Clothing,Southwest,4,79.99,319.96
+ORD-10527,2025-03-01,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,3,20.69,62.07
+ORD-10527,2025-03-01,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,21.99,21.99
+ORD-10528,2025-03-02,Slim Fit Denim Jeans,Clothing,West,1,42.49,42.49
+ORD-10529,2025-03-03,Bamboo Cutting Board,Home & Kitchen,West,2,18.99,37.98
+ORD-10529,2025-03-03,Mystery Novel Collection,Books,West,1,24.99,24.99
+ORD-10530,2025-03-04,Camping Tent 2-Person,Sports & Outdoors,West,1,139.99,139.99
+ORD-10530,2025-03-04,Yoga Mat Premium,Sports & Outdoors,West,2,34.99,69.98
+ORD-10530,2025-03-04,Organic Cotton T-Shirt,Clothing,West,1,17.99,17.99
+ORD-10531,2025-03-08,Bamboo Cutting Board,Home & Kitchen,Southwest,2,18.99,37.98
+ORD-10531,2025-03-08,Waterproof Rain Jacket,Clothing,Southwest,1,79.99,79.99
+ORD-10532,2025-03-08,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10533,2025-03-09,Merino Wool Socks (3-Pack),Clothing,Southeast,1,16.99,16.99
+ORD-10534,2025-03-09,Data Science Handbook,Books,Midwest,2,44.99,89.98
+ORD-10535,2025-03-09,Waterproof Rain Jacket,Clothing,Midwest,2,71.99,143.98
+ORD-10536,2025-03-10,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,129.99,129.99
+ORD-10536,2025-03-10,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10537,2025-03-11,Mystery Novel Collection,Books,West,2,22.49,44.98
+ORD-10537,2025-03-11,Electric Kettle,Home & Kitchen,West,1,34.99,34.99
+ORD-10538,2025-03-13,Data Science Handbook,Books,West,2,44.99,89.98
+ORD-10538,2025-03-13,Trail Running Shoes,Sports & Outdoors,West,4,119.99,479.96
+ORD-10539,2025-03-14,Bluetooth Speaker Mini,Electronics,West,2,39.99,79.98
+ORD-10539,2025-03-14,USB-C Fast Charger,Electronics,West,4,24.99,99.96
+ORD-10540,2025-03-14,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,2,21.99,43.98
+ORD-10541,2025-03-14,Data Science Handbook,Books,Midwest,2,44.99,89.98
+ORD-10542,2025-03-16,Bluetooth Speaker Mini,Electronics,Northeast,1,39.99,39.99
+ORD-10542,2025-03-16,Yoga Mat Premium,Sports & Outdoors,Northeast,4,34.99,139.96
+ORD-10543,2025-03-18,4K Streaming Stick,Electronics,Northeast,3,49.99,149.97
+ORD-10544,2025-03-19,Bluetooth Speaker Mini,Electronics,Southeast,2,39.99,79.98
+ORD-10545,2025-03-25,Mystery Novel Collection,Books,Southwest,2,24.99,49.98
+ORD-10546,2025-03-28,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10547,2025-03-28,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10548,2025-03-28,Wireless Earbuds Pro,Electronics,Southeast,2,89.99,179.98
+ORD-10548,2025-03-28,Camping Tent 2-Person,Sports & Outdoors,Southeast,1,139.99,139.99
+ORD-10548,2025-03-28,Vitamin C Face Serum,Beauty & Personal Care,Southeast,3,27.99,83.97
+ORD-10549,2025-03-29,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,4,21.99,87.96
+ORD-10549,2025-03-29,Slim Fit Denim Jeans,Clothing,Southwest,2,49.99,99.98
+ORD-10550,2025-03-29,4K Streaming Stick,Electronics,West,3,44.99,134.97
+ORD-10551,2025-03-29,4K Streaming Stick,Electronics,Southeast,2,44.99,89.98
+ORD-10552,2025-03-29,Slim Fit Denim Jeans,Clothing,Northeast,2,42.49,84.98
+ORD-10553,2025-03-29,Data Science Handbook,Books,Southeast,4,44.99,179.96
+ORD-10553,2025-03-29,Electric Kettle,Home & Kitchen,Southeast,2,34.99,69.98
+ORD-10553,2025-03-29,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,2,19.79,39.58
+ORD-10554,2025-03-30,Slim Fit Denim Jeans,Clothing,West,3,49.99,149.97
+ORD-10554,2025-03-30,Electric Toothbrush,Beauty & Personal Care,West,4,59.99,239.96
+ORD-10554,2025-03-30,Hair Dryer Ionic,Beauty & Personal Care,West,1,62.99,62.99
+ORD-10555,2025-03-30,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10555,2025-03-30,Air Fryer 5L,Home & Kitchen,Southeast,2,89.99,179.98
+ORD-10556,2025-03-30,Noise-Cancelling Headphones,Electronics,Northeast,1,229.99,229.99
+ORD-10556,2025-03-30,Mystery Novel Collection,Books,Northeast,1,24.99,24.99
+ORD-10556,2025-03-30,Yoga Mat Premium,Sports & Outdoors,Northeast,3,31.49,94.47
+ORD-10557,2025-03-31,Classic Leather Belt,Clothing,Southeast,2,29.99,59.98
+ORD-10558,2025-03-31,Trail Running Shoes,Sports & Outdoors,Southwest,1,119.99,119.99
+ORD-10559,2025-04-02,Merino Wool Socks (3-Pack),Clothing,Northeast,4,16.99,67.96
+ORD-10560,2025-04-04,Waterproof Rain Jacket,Clothing,West,1,71.99,71.99
+ORD-10560,2025-04-04,Electric Toothbrush,Beauty & Personal Care,West,1,59.99,59.99
+ORD-10561,2025-04-05,Electric Toothbrush,Beauty & Personal Care,Southwest,2,59.99,119.98
+ORD-10561,2025-04-05,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,3,21.99,65.97
+ORD-10561,2025-04-05,Bamboo Cutting Board,Home & Kitchen,Southwest,2,18.99,37.98
+ORD-10562,2025-04-07,Camping Tent 2-Person,Sports & Outdoors,Midwest,1,125.99,125.99
+ORD-10563,2025-04-07,Mindful Productivity Guide,Books,West,1,16.99,16.99
+ORD-10564,2025-04-08,Wireless Earbuds Pro,Electronics,West,1,89.99,89.99
+ORD-10565,2025-04-09,Bluetooth Speaker Mini,Electronics,Midwest,1,39.99,39.99
+ORD-10565,2025-04-09,Classic Leather Belt,Clothing,Midwest,1,25.49,25.49
+ORD-10566,2025-04-10,Waterproof Rain Jacket,Clothing,West,2,79.99,159.98
+ORD-10566,2025-04-10,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10567,2025-04-10,Insulated Water Bottle,Sports & Outdoors,Northeast,2,24.99,49.98
+ORD-10567,2025-04-10,World Cuisine Cookbook,Books,Northeast,1,29.99,29.99
+ORD-10568,2025-04-11,Insulated Water Bottle,Sports & Outdoors,Southeast,4,24.99,99.96
+ORD-10569,2025-04-12,Classic Leather Belt,Clothing,Northeast,4,29.99,119.96
+ORD-10570,2025-04-12,Bluetooth Speaker Mini,Electronics,Southeast,1,39.99,39.99
+ORD-10571,2025-04-13,Trail Running Shoes,Sports & Outdoors,Midwest,2,119.99,239.98
+ORD-10572,2025-04-13,Waterproof Rain Jacket,Clothing,West,3,79.99,239.97
+ORD-10573,2025-04-13,Mindful Productivity Guide,Books,Midwest,1,16.99,16.99
+ORD-10573,2025-04-13,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,3,22.99,68.97
+ORD-10574,2025-04-15,Waterproof Rain Jacket,Clothing,Northeast,3,79.99,239.97
+ORD-10574,2025-04-15,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,2,179.99,359.98
+ORD-10575,2025-04-18,Vitamin C Face Serum,Beauty & Personal Care,West,2,25.19,50.38
+ORD-10576,2025-04-19,Electric Kettle,Home & Kitchen,Southwest,3,34.99,104.97
+ORD-10577,2025-04-20,Hair Dryer Ionic,Beauty & Personal Care,West,2,69.99,139.98
+ORD-10578,2025-04-20,Camping Tent 2-Person,Sports & Outdoors,Southeast,1,139.99,139.99
+ORD-10579,2025-04-20,Wireless Earbuds Pro,Electronics,West,1,89.99,89.99
+ORD-10580,2025-04-22,USB-C Fast Charger,Electronics,Midwest,2,24.99,49.98
+ORD-10581,2025-04-22,4K Streaming Stick,Electronics,Midwest,2,49.99,99.98
+ORD-10582,2025-04-23,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,3,20.69,62.07
+ORD-10583,2025-04-24,Merino Wool Socks (3-Pack),Clothing,Southeast,4,15.29,61.16
+ORD-10584,2025-04-25,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10585,2025-04-25,Bluetooth Speaker Mini,Electronics,West,1,39.99,39.99
+ORD-10585,2025-04-25,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10585,2025-04-25,Bamboo Cutting Board,Home & Kitchen,West,2,17.09,34.18
+ORD-10586,2025-04-26,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10586,2025-04-26,Waterproof Rain Jacket,Clothing,West,1,79.99,79.99
+ORD-10587,2025-04-26,Organic Cotton T-Shirt,Clothing,Northeast,1,19.99,19.99
+ORD-10587,2025-04-26,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,4,22.99,91.96
+ORD-10588,2025-04-27,Mystery Novel Collection,Books,Northeast,1,24.99,24.99
+ORD-10588,2025-04-27,Noise-Cancelling Headphones,Electronics,Northeast,4,229.99,919.96
+ORD-10589,2025-04-27,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10590,2025-04-27,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10590,2025-04-27,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10590,2025-04-27,Electric Toothbrush,Beauty & Personal Care,West,4,53.99,215.96
+ORD-10591,2025-04-28,Merino Wool Socks (3-Pack),Clothing,Northeast,4,15.29,61.16
+ORD-10592,2025-04-28,Electric Kettle,Home & Kitchen,West,2,34.99,69.98
+ORD-10593,2025-04-28,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,21.99,21.99
+ORD-10594,2025-04-30,Organic Cotton T-Shirt,Clothing,Midwest,3,19.99,59.97
+ORD-10595,2025-04-30,4K Streaming Stick,Electronics,Southeast,1,49.99,49.99
+ORD-10596,2025-05-01,Hair Dryer Ionic,Beauty & Personal Care,Midwest,3,69.99,209.97
+ORD-10597,2025-05-01,Organic Cotton T-Shirt,Clothing,Northeast,4,17.99,71.96
+ORD-10598,2025-05-01,Organic Cotton T-Shirt,Clothing,Southeast,1,17.99,17.99
+ORD-10599,2025-05-02,Merino Wool Socks (3-Pack),Clothing,West,4,16.99,67.96
+ORD-10599,2025-05-02,Trail Running Shoes,Sports & Outdoors,West,2,119.99,239.98
+ORD-10600,2025-05-02,Adjustable Dumbbell Pair,Sports & Outdoors,West,4,179.99,719.96
+ORD-10601,2025-05-04,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,69.99,139.98
+ORD-10601,2025-05-04,USB-C Fast Charger,Electronics,Northeast,4,24.99,99.96
+ORD-10602,2025-05-04,Air Fryer 5L,Home & Kitchen,West,1,99.99,99.99
+ORD-10603,2025-05-04,Trail Running Shoes,Sports & Outdoors,West,2,119.99,239.98
+ORD-10604,2025-05-05,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10605,2025-05-05,Trail Running Shoes,Sports & Outdoors,Southwest,1,101.99,101.99
+ORD-10605,2025-05-05,Wireless Earbuds Pro,Electronics,Southwest,2,89.99,179.98
+ORD-10606,2025-05-06,USB-C Fast Charger,Electronics,Southeast,4,24.99,99.96
+ORD-10606,2025-05-06,Insulated Water Bottle,Sports & Outdoors,Southeast,3,24.99,74.97
+ORD-10607,2025-05-07,Hair Dryer Ionic,Beauty & Personal Care,Midwest,3,69.99,209.97
+ORD-10608,2025-05-07,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10609,2025-05-09,Insulated Water Bottle,Sports & Outdoors,Midwest,2,22.49,44.98
+ORD-10610,2025-05-09,Vitamin C Face Serum,Beauty & Personal Care,West,3,25.19,75.57
+ORD-10610,2025-05-09,Waterproof Rain Jacket,Clothing,West,1,71.99,71.99
+ORD-10611,2025-05-11,Camping Tent 2-Person,Sports & Outdoors,Northeast,2,139.99,279.98
+ORD-10612,2025-05-11,Organic Cotton T-Shirt,Clothing,Northeast,1,19.99,19.99
+ORD-10612,2025-05-11,USB-C Fast Charger,Electronics,Northeast,1,21.24,21.24
+ORD-10612,2025-05-11,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10613,2025-05-13,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,4,21.99,87.96
+ORD-10614,2025-05-13,Hair Dryer Ionic,Beauty & Personal Care,Northeast,3,69.99,209.97
+ORD-10614,2025-05-13,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10614,2025-05-13,Insulated Water Bottle,Sports & Outdoors,Northeast,2,24.99,49.98
+ORD-10615,2025-05-13,4K Streaming Stick,Electronics,Midwest,1,42.49,42.49
+ORD-10616,2025-05-16,Bluetooth Speaker Mini,Electronics,Southwest,1,39.99,39.99
+ORD-10616,2025-05-16,Yoga Mat Premium,Sports & Outdoors,Southwest,3,34.99,104.97
+ORD-10617,2025-05-17,Organic Cotton T-Shirt,Clothing,Southeast,2,19.99,39.98
+ORD-10618,2025-05-17,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,1,22.99,22.99
+ORD-10619,2025-05-17,4K Streaming Stick,Electronics,Northeast,1,49.99,49.99
+ORD-10620,2025-05-19,Mystery Novel Collection,Books,Northeast,1,22.49,22.49
+ORD-10621,2025-05-20,Organic Cotton T-Shirt,Clothing,Northeast,1,17.99,17.99
+ORD-10622,2025-05-20,Organic Cotton T-Shirt,Clothing,Northeast,3,17.99,53.97
+ORD-10623,2025-05-21,Classic Leather Belt,Clothing,West,2,29.99,59.98
+ORD-10624,2025-05-21,Smart Fitness Watch,Electronics,West,1,149.99,149.99
+ORD-10625,2025-05-22,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,2,22.99,45.98
+ORD-10625,2025-05-22,Hair Dryer Ionic,Beauty & Personal Care,Southeast,1,69.99,69.99
+ORD-10626,2025-05-24,Insulated Water Bottle,Sports & Outdoors,Northeast,2,24.99,49.98
+ORD-10627,2025-05-25,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,59.49,59.49
+ORD-10628,2025-05-27,Camping Tent 2-Person,Sports & Outdoors,Northeast,1,139.99,139.99
+ORD-10628,2025-05-27,Mystery Novel Collection,Books,Northeast,1,24.99,24.99
+ORD-10629,2025-05-28,Slim Fit Denim Jeans,Clothing,West,1,44.99,44.99
+ORD-10629,2025-05-28,Stainless Steel Cookware Set,Home & Kitchen,West,3,129.99,389.97
+ORD-10630,2025-05-28,Slim Fit Denim Jeans,Clothing,Southwest,1,44.99,44.99
+ORD-10631,2025-05-29,Air Fryer 5L,Home & Kitchen,West,2,99.99,199.98
+ORD-10632,2025-05-30,Smart Fitness Watch,Electronics,Northeast,2,149.99,299.98
+ORD-10633,2025-05-30,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,116.99,116.99
+ORD-10633,2025-05-30,Yoga Mat Premium,Sports & Outdoors,Southeast,2,34.99,69.98
+ORD-10634,2025-05-30,Waterproof Rain Jacket,Clothing,Southeast,2,79.99,159.98
+ORD-10635,2025-05-31,Electric Kettle,Home & Kitchen,Midwest,4,34.99,139.96
+ORD-10636,2025-05-31,Stainless Steel Cookware Set,Home & Kitchen,Southeast,2,129.99,259.98
+ORD-10636,2025-05-31,Yoga Mat Premium,Sports & Outdoors,Southeast,1,31.49,31.49
+ORD-10637,2025-05-31,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10638,2025-06-01,USB-C Fast Charger,Electronics,Southwest,1,24.99,24.99
+ORD-10639,2025-06-02,Electric Kettle,Home & Kitchen,Northeast,2,34.99,69.98
+ORD-10639,2025-06-02,Smart Fitness Watch,Electronics,Northeast,2,149.99,299.98
+ORD-10640,2025-06-02,4K Streaming Stick,Electronics,West,2,49.99,99.98
+ORD-10641,2025-06-03,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10642,2025-06-04,Mindful Productivity Guide,Books,West,2,16.99,33.98
+ORD-10643,2025-06-05,Waterproof Rain Jacket,Clothing,Midwest,2,79.99,159.98
+ORD-10643,2025-06-05,Organic Cotton T-Shirt,Clothing,Midwest,2,19.99,39.98
+ORD-10643,2025-06-05,Electric Kettle,Home & Kitchen,Midwest,2,34.99,69.98
+ORD-10644,2025-06-06,Organic Cotton T-Shirt,Clothing,Southeast,2,19.99,39.98
+ORD-10645,2025-06-07,Smart Fitness Watch,Electronics,Northeast,3,149.99,449.97
+ORD-10646,2025-06-10,Mindful Productivity Guide,Books,Southeast,1,15.29,15.29
+ORD-10646,2025-06-10,Classic Leather Belt,Clothing,Southeast,1,29.99,29.99
+ORD-10646,2025-06-10,World Cuisine Cookbook,Books,Southeast,1,29.99,29.99
+ORD-10647,2025-06-11,Wireless Earbuds Pro,Electronics,Southwest,3,76.49,229.47
+ORD-10648,2025-06-11,4K Streaming Stick,Electronics,Southeast,1,49.99,49.99
+ORD-10649,2025-06-11,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10649,2025-06-11,4K Streaming Stick,Electronics,West,1,44.99,44.99
+ORD-10650,2025-06-11,Classic Leather Belt,Clothing,Southwest,2,29.99,59.98
+ORD-10651,2025-06-13,Waterproof Rain Jacket,Clothing,Midwest,2,79.99,159.98
+ORD-10651,2025-06-13,World Cuisine Cookbook,Books,Midwest,1,29.99,29.99
+ORD-10652,2025-06-13,Merino Wool Socks (3-Pack),Clothing,Midwest,1,16.99,16.99
+ORD-10653,2025-06-13,Trail Running Shoes,Sports & Outdoors,Southeast,1,119.99,119.99
+ORD-10653,2025-06-13,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10654,2025-06-13,Classic Leather Belt,Clothing,West,2,29.99,59.98
+ORD-10654,2025-06-13,Ceramic Coffee Mug Set,Home & Kitchen,West,3,20.69,62.07
+ORD-10654,2025-06-13,Insulated Water Bottle,Sports & Outdoors,West,4,24.99,99.96
+ORD-10655,2025-06-14,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,69.99,69.99
+ORD-10656,2025-06-14,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10657,2025-06-14,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,27.99,27.99
+ORD-10658,2025-06-16,Bluetooth Speaker Mini,Electronics,Southwest,2,39.99,79.98
+ORD-10658,2025-06-16,World Cuisine Cookbook,Books,Southwest,2,29.99,59.98
+ORD-10659,2025-06-17,Data Science Handbook,Books,Southeast,1,40.49,40.49
+ORD-10660,2025-06-18,Electric Kettle,Home & Kitchen,Southwest,1,34.99,34.99
+ORD-10661,2025-06-20,Organic Cotton T-Shirt,Clothing,Midwest,2,19.99,39.98
+ORD-10661,2025-06-20,Stainless Steel Cookware Set,Home & Kitchen,Midwest,2,129.99,259.98
+ORD-10662,2025-06-20,Insulated Water Bottle,Sports & Outdoors,Midwest,1,24.99,24.99
+ORD-10663,2025-06-21,Yoga Mat Premium,Sports & Outdoors,Northeast,1,34.99,34.99
+ORD-10664,2025-06-21,Bluetooth Speaker Mini,Electronics,West,3,33.99,101.97
+ORD-10664,2025-06-21,Insulated Water Bottle,Sports & Outdoors,West,1,24.99,24.99
+ORD-10665,2025-06-22,Electric Kettle,Home & Kitchen,Southeast,2,34.99,69.98
+ORD-10666,2025-06-22,Data Science Handbook,Books,Northeast,2,40.49,80.98
+ORD-10667,2025-06-23,USB-C Fast Charger,Electronics,Midwest,4,24.99,99.96
+ORD-10668,2025-06-25,Bluetooth Speaker Mini,Electronics,Midwest,4,39.99,159.96
+ORD-10668,2025-06-25,Insulated Water Bottle,Sports & Outdoors,Midwest,3,24.99,74.97
+ORD-10669,2025-06-26,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,1,22.99,22.99
+ORD-10669,2025-06-26,Electric Toothbrush,Beauty & Personal Care,Southeast,2,59.99,119.98
+ORD-10669,2025-06-26,Vitamin C Face Serum,Beauty & Personal Care,Southeast,4,27.99,111.96
+ORD-10670,2025-06-26,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,69.99,139.98
+ORD-10671,2025-06-27,Trail Running Shoes,Sports & Outdoors,Northeast,2,119.99,239.98
+ORD-10672,2025-06-27,Electric Toothbrush,Beauty & Personal Care,West,2,59.99,119.98
+ORD-10672,2025-06-27,Stainless Steel Cookware Set,Home & Kitchen,West,2,129.99,259.98
+ORD-10673,2025-06-28,4K Streaming Stick,Electronics,Southwest,1,49.99,49.99
+ORD-10673,2025-06-28,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,18.69,18.69
+ORD-10674,2025-06-29,Classic Leather Belt,Clothing,Midwest,3,29.99,89.97
+ORD-10674,2025-06-29,Vitamin C Face Serum,Beauty & Personal Care,Midwest,2,27.99,55.98
+ORD-10675,2025-06-30,Mystery Novel Collection,Books,Southwest,2,24.99,49.98
+ORD-10676,2025-07-02,Air Fryer 5L,Home & Kitchen,West,1,99.99,99.99
+ORD-10677,2025-07-02,Slim Fit Denim Jeans,Clothing,Northeast,2,49.99,99.98
+ORD-10678,2025-07-02,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10679,2025-07-04,Smart Fitness Watch,Electronics,Southwest,2,149.99,299.98
+ORD-10679,2025-07-04,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,4,22.99,91.96
+ORD-10680,2025-07-05,Electric Toothbrush,Beauty & Personal Care,Midwest,1,53.99,53.99
+ORD-10681,2025-07-05,USB-C Fast Charger,Electronics,Northeast,4,24.99,99.96
+ORD-10682,2025-07-06,4K Streaming Stick,Electronics,Southeast,1,49.99,49.99
+ORD-10682,2025-07-06,Mindful Productivity Guide,Books,Southeast,1,15.29,15.29
+ORD-10683,2025-07-06,Classic Leather Belt,Clothing,Southwest,1,29.99,29.99
+ORD-10684,2025-07-07,Yoga Mat Premium,Sports & Outdoors,Midwest,1,34.99,34.99
+ORD-10685,2025-07-07,USB-C Fast Charger,Electronics,Southwest,2,22.49,44.98
+ORD-10685,2025-07-07,Wireless Earbuds Pro,Electronics,Southwest,2,89.99,179.98
+ORD-10686,2025-07-08,Noise-Cancelling Headphones,Electronics,Southwest,2,229.99,459.98
+ORD-10687,2025-07-09,Electric Kettle,Home & Kitchen,Southwest,2,34.99,69.98
+ORD-10688,2025-07-13,Organic Cotton T-Shirt,Clothing,Midwest,2,17.99,35.98
+ORD-10689,2025-07-13,Yoga Mat Premium,Sports & Outdoors,West,4,34.99,139.96
+ORD-10689,2025-07-13,Organic Cotton T-Shirt,Clothing,West,3,19.99,59.97
+ORD-10690,2025-07-14,Wireless Earbuds Pro,Electronics,Northeast,2,89.99,179.98
+ORD-10690,2025-07-14,Waterproof Rain Jacket,Clothing,Northeast,1,71.99,71.99
+ORD-10691,2025-07-15,Vitamin C Face Serum,Beauty & Personal Care,Northeast,1,27.99,27.99
+ORD-10691,2025-07-15,Stainless Steel Cookware Set,Home & Kitchen,Northeast,1,129.99,129.99
+ORD-10692,2025-07-16,Noise-Cancelling Headphones,Electronics,Southeast,1,195.49,195.49
+ORD-10692,2025-07-16,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,3,21.99,65.97
+ORD-10692,2025-07-16,USB-C Fast Charger,Electronics,Southeast,1,24.99,24.99
+ORD-10693,2025-07-16,Electric Kettle,Home & Kitchen,Northeast,2,34.99,69.98
+ORD-10693,2025-07-16,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10694,2025-07-16,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,19.54,39.08
+ORD-10695,2025-07-17,Air Fryer 5L,Home & Kitchen,Midwest,1,99.99,99.99
+ORD-10695,2025-07-17,Electric Kettle,Home & Kitchen,Midwest,1,34.99,34.99
+ORD-10696,2025-07-17,Mystery Novel Collection,Books,Midwest,1,24.99,24.99
+ORD-10697,2025-07-18,Air Fryer 5L,Home & Kitchen,Midwest,4,99.99,399.96
+ORD-10698,2025-07-18,Smart Fitness Watch,Electronics,Midwest,3,127.49,382.47
+ORD-10699,2025-07-19,Organic Cotton T-Shirt,Clothing,Southeast,3,19.99,59.97
+ORD-10699,2025-07-19,Mindful Productivity Guide,Books,Southeast,1,15.29,15.29
+ORD-10700,2025-07-20,Mystery Novel Collection,Books,Southeast,1,24.99,24.99
+ORD-10701,2025-07-21,Hair Dryer Ionic,Beauty & Personal Care,Southwest,2,69.99,139.98
+ORD-10701,2025-07-21,Merino Wool Socks (3-Pack),Clothing,Southwest,2,16.99,33.98
+ORD-10702,2025-07-21,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10703,2025-07-23,USB-C Fast Charger,Electronics,Midwest,3,21.24,63.72
+ORD-10703,2025-07-23,Yoga Mat Premium,Sports & Outdoors,Midwest,3,34.99,104.97
+ORD-10704,2025-07-24,Vitamin C Face Serum,Beauty & Personal Care,West,4,27.99,111.96
+ORD-10705,2025-07-24,Organic Cotton T-Shirt,Clothing,Southwest,1,19.99,19.99
+ORD-10706,2025-07-25,Organic Cotton T-Shirt,Clothing,Midwest,1,17.99,17.99
+ORD-10707,2025-07-26,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10708,2025-07-27,Slim Fit Denim Jeans,Clothing,Midwest,1,49.99,49.99
+ORD-10708,2025-07-27,Smart Fitness Watch,Electronics,Midwest,1,134.99,134.99
+ORD-10709,2025-07-28,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,3,22.99,68.97
+ORD-10710,2025-07-29,Slim Fit Denim Jeans,Clothing,West,4,49.99,199.96
+ORD-10710,2025-07-29,Data Science Handbook,Books,West,1,44.99,44.99
+ORD-10711,2025-07-30,Smart Fitness Watch,Electronics,Midwest,2,149.99,299.98
+ORD-10712,2025-07-30,Organic Cotton T-Shirt,Clothing,Southeast,1,16.99,16.99
+ORD-10713,2025-07-31,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10714,2025-07-31,Vitamin C Face Serum,Beauty & Personal Care,Southwest,1,27.99,27.99
+ORD-10715,2025-08-01,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,21.99,21.99
+ORD-10715,2025-08-01,Wireless Earbuds Pro,Electronics,Southwest,4,89.99,359.96
+ORD-10716,2025-08-02,Waterproof Rain Jacket,Clothing,Northeast,1,79.99,79.99
+ORD-10717,2025-08-04,Insulated Water Bottle,Sports & Outdoors,Southeast,1,22.49,22.49
+ORD-10718,2025-08-04,Data Science Handbook,Books,Northeast,1,44.99,44.99
+ORD-10719,2025-08-04,Bluetooth Speaker Mini,Electronics,Midwest,1,33.99,33.99
+ORD-10719,2025-08-04,Insulated Water Bottle,Sports & Outdoors,Midwest,4,24.99,99.96
+ORD-10720,2025-08-05,Merino Wool Socks (3-Pack),Clothing,Southeast,2,16.99,33.98
+ORD-10720,2025-08-05,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,129.99,129.99
+ORD-10721,2025-08-07,Smart Fitness Watch,Electronics,Northeast,1,149.99,149.99
+ORD-10722,2025-08-08,Stainless Steel Cookware Set,Home & Kitchen,Northeast,4,110.49,441.96
+ORD-10723,2025-08-09,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10724,2025-08-10,Bluetooth Speaker Mini,Electronics,Southeast,1,39.99,39.99
+ORD-10725,2025-08-10,Slim Fit Denim Jeans,Clothing,Northeast,3,49.99,149.97
+ORD-10726,2025-08-10,Noise-Cancelling Headphones,Electronics,Northeast,2,206.99,413.98
+ORD-10727,2025-08-11,Bamboo Cutting Board,Home & Kitchen,West,3,18.99,56.97
+ORD-10728,2025-08-11,Organic Cotton T-Shirt,Clothing,Northeast,2,19.99,39.98
+ORD-10729,2025-08-12,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,4,22.99,91.96
+ORD-10730,2025-08-13,4K Streaming Stick,Electronics,Southwest,1,49.99,49.99
+ORD-10731,2025-08-14,Smart Fitness Watch,Electronics,West,1,134.99,134.99
+ORD-10732,2025-08-14,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10732,2025-08-14,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10733,2025-08-15,Data Science Handbook,Books,Midwest,1,44.99,44.99
+ORD-10734,2025-08-15,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,69.99,69.99
+ORD-10735,2025-08-16,Natural Shampoo & Conditioner,Beauty & Personal Care,West,4,21.99,87.96
+ORD-10735,2025-08-16,Hair Dryer Ionic,Beauty & Personal Care,West,4,69.99,279.96
+ORD-10736,2025-08-16,Camping Tent 2-Person,Sports & Outdoors,Southwest,3,118.99,356.97
+ORD-10737,2025-08-17,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10737,2025-08-17,4K Streaming Stick,Electronics,Southeast,3,49.99,149.97
+ORD-10737,2025-08-17,Bluetooth Speaker Mini,Electronics,Southeast,2,39.99,79.98
+ORD-10738,2025-08-17,Insulated Water Bottle,Sports & Outdoors,Midwest,2,24.99,49.98
+ORD-10738,2025-08-17,Vitamin C Face Serum,Beauty & Personal Care,Midwest,1,27.99,27.99
+ORD-10739,2025-08-18,Merino Wool Socks (3-Pack),Clothing,Southeast,4,16.99,67.96
+ORD-10740,2025-08-18,Wireless Earbuds Pro,Electronics,Southwest,1,76.49,76.49
+ORD-10741,2025-08-19,Electric Kettle,Home & Kitchen,Southeast,2,34.99,69.98
+ORD-10742,2025-08-20,Adjustable Dumbbell Pair,Sports & Outdoors,Southeast,2,179.99,359.98
+ORD-10743,2025-08-21,Bamboo Cutting Board,Home & Kitchen,Northeast,1,18.99,18.99
+ORD-10743,2025-08-21,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,3,22.99,68.97
+ORD-10743,2025-08-21,Smart Fitness Watch,Electronics,Northeast,4,149.99,599.96
+ORD-10744,2025-08-22,Mindful Productivity Guide,Books,Northeast,3,16.99,50.97
+ORD-10745,2025-08-23,Stainless Steel Cookware Set,Home & Kitchen,West,2,129.99,259.98
+ORD-10745,2025-08-23,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10746,2025-08-24,Electric Kettle,Home & Kitchen,Southwest,3,34.99,104.97
+ORD-10746,2025-08-24,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,2,22.99,45.98
+ORD-10747,2025-08-25,Trail Running Shoes,Sports & Outdoors,Southeast,4,119.99,479.96
+ORD-10748,2025-08-27,Mindful Productivity Guide,Books,Southwest,1,16.99,16.99
+ORD-10749,2025-08-27,Mindful Productivity Guide,Books,Southwest,3,16.99,50.97
+ORD-10749,2025-08-27,Classic Leather Belt,Clothing,Southwest,1,29.99,29.99
+ORD-10749,2025-08-27,Organic Cotton T-Shirt,Clothing,Southwest,3,19.99,59.97
+ORD-10750,2025-08-27,Data Science Handbook,Books,Northeast,1,40.49,40.49
+ORD-10750,2025-08-27,World Cuisine Cookbook,Books,Northeast,3,29.99,89.97
+ORD-10750,2025-08-27,Organic Cotton T-Shirt,Clothing,Northeast,2,16.99,33.98
+ORD-10751,2025-08-28,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,1,179.99,179.99
+ORD-10752,2025-08-29,Noise-Cancelling Headphones,Electronics,Southeast,1,229.99,229.99
+ORD-10752,2025-08-29,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,1,19.79,19.79
+ORD-10753,2025-08-29,Vitamin C Face Serum,Beauty & Personal Care,Northeast,2,27.99,55.98
+ORD-10754,2025-08-30,Merino Wool Socks (3-Pack),Clothing,Midwest,1,16.99,16.99
+ORD-10754,2025-08-30,Bamboo Cutting Board,Home & Kitchen,Midwest,1,18.99,18.99
+ORD-10754,2025-08-30,Mystery Novel Collection,Books,Midwest,2,24.99,49.98
+ORD-10755,2025-08-30,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10755,2025-08-30,Insulated Water Bottle,Sports & Outdoors,Southeast,1,24.99,24.99
+ORD-10756,2025-08-31,Air Fryer 5L,Home & Kitchen,Midwest,3,89.99,269.97
+ORD-10756,2025-08-31,USB-C Fast Charger,Electronics,Midwest,1,24.99,24.99
+ORD-10757,2025-08-31,4K Streaming Stick,Electronics,West,2,49.99,99.98
+ORD-10758,2025-08-31,USB-C Fast Charger,Electronics,Northeast,3,24.99,74.97
+ORD-10758,2025-08-31,Air Fryer 5L,Home & Kitchen,Northeast,3,99.99,299.97
+ORD-10758,2025-08-31,Bamboo Cutting Board,Home & Kitchen,Northeast,3,16.14,48.42
+ORD-10759,2025-09-03,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,21.99,21.99
+ORD-10759,2025-09-03,Mindful Productivity Guide,Books,Southwest,1,16.99,16.99
+ORD-10759,2025-09-03,Yoga Mat Premium,Sports & Outdoors,Southwest,1,34.99,34.99
+ORD-10760,2025-09-03,4K Streaming Stick,Electronics,Northeast,1,49.99,49.99
+ORD-10760,2025-09-03,World Cuisine Cookbook,Books,Northeast,1,26.99,26.99
+ORD-10761,2025-09-06,World Cuisine Cookbook,Books,West,1,26.99,26.99
+ORD-10761,2025-09-06,Electric Kettle,Home & Kitchen,West,1,34.99,34.99
+ORD-10762,2025-09-06,Classic Leather Belt,Clothing,Midwest,1,29.99,29.99
+ORD-10763,2025-09-06,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10763,2025-09-06,USB-C Fast Charger,Electronics,Northeast,1,24.99,24.99
+ORD-10763,2025-09-06,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,2,179.99,359.98
+ORD-10764,2025-09-06,Electric Toothbrush,Beauty & Personal Care,Southwest,1,53.99,53.99
+ORD-10765,2025-09-06,Bluetooth Speaker Mini,Electronics,Northeast,1,39.99,39.99
+ORD-10766,2025-09-07,Insulated Water Bottle,Sports & Outdoors,West,2,24.99,49.98
+ORD-10767,2025-09-07,Classic Leather Belt,Clothing,Northeast,2,29.99,59.98
+ORD-10768,2025-09-07,Air Fryer 5L,Home & Kitchen,Northeast,4,89.99,359.96
+ORD-10769,2025-09-09,USB-C Fast Charger,Electronics,West,2,24.99,49.98
+ORD-10769,2025-09-09,Organic Cotton T-Shirt,Clothing,West,3,19.99,59.97
+ORD-10770,2025-09-09,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,59.49,59.49
+ORD-10771,2025-09-09,Stainless Steel Cookware Set,Home & Kitchen,Southeast,1,129.99,129.99
+ORD-10772,2025-09-09,Yoga Mat Premium,Sports & Outdoors,Midwest,1,34.99,34.99
+ORD-10773,2025-09-10,Electric Toothbrush,Beauty & Personal Care,Northeast,4,59.99,239.96
+ORD-10774,2025-09-10,Slim Fit Denim Jeans,Clothing,Northeast,3,49.99,149.97
+ORD-10775,2025-09-11,4K Streaming Stick,Electronics,West,1,49.99,49.99
+ORD-10776,2025-09-11,Stainless Steel Cookware Set,Home & Kitchen,Midwest,1,129.99,129.99
+ORD-10777,2025-09-12,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,2,20.69,41.38
+ORD-10777,2025-09-12,4K Streaming Stick,Electronics,Southeast,3,44.99,134.97
+ORD-10777,2025-09-12,World Cuisine Cookbook,Books,Southeast,1,29.99,29.99
+ORD-10778,2025-09-12,Vitamin C Face Serum,Beauty & Personal Care,Southeast,1,27.99,27.99
+ORD-10778,2025-09-12,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,2,22.99,45.98
+ORD-10779,2025-09-12,Classic Leather Belt,Clothing,West,2,29.99,59.98
+ORD-10780,2025-09-12,Yoga Mat Premium,Sports & Outdoors,Southeast,2,34.99,69.98
+ORD-10780,2025-09-12,Insulated Water Bottle,Sports & Outdoors,Southeast,4,24.99,99.96
+ORD-10780,2025-09-12,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10781,2025-09-13,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,1,19.54,19.54
+ORD-10781,2025-09-13,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-10782,2025-09-13,Mindful Productivity Guide,Books,Northeast,3,16.99,50.97
+ORD-10783,2025-09-13,Hair Dryer Ionic,Beauty & Personal Care,Northeast,1,69.99,69.99
+ORD-10784,2025-09-13,Hair Dryer Ionic,Beauty & Personal Care,Northeast,3,69.99,209.97
+ORD-10785,2025-09-14,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10785,2025-09-14,Vitamin C Face Serum,Beauty & Personal Care,West,2,27.99,55.98
+ORD-10786,2025-09-14,World Cuisine Cookbook,Books,Southwest,1,29.99,29.99
+ORD-10786,2025-09-14,Merino Wool Socks (3-Pack),Clothing,Southwest,2,16.99,33.98
+ORD-10787,2025-09-14,Classic Leather Belt,Clothing,Southeast,2,29.99,59.98
+ORD-10787,2025-09-14,Wireless Earbuds Pro,Electronics,Southeast,1,80.99,80.99
+ORD-10788,2025-09-15,Slim Fit Denim Jeans,Clothing,Southeast,2,49.99,99.98
+ORD-10789,2025-09-16,Mindful Productivity Guide,Books,Northeast,2,16.99,33.98
+ORD-10789,2025-09-16,Merino Wool Socks (3-Pack),Clothing,Northeast,2,16.99,33.98
+ORD-10790,2025-09-16,Wireless Earbuds Pro,Electronics,Southeast,3,89.99,269.97
+ORD-10790,2025-09-16,Trail Running Shoes,Sports & Outdoors,Southeast,1,119.99,119.99
+ORD-10791,2025-09-17,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,4,21.99,87.96
+ORD-10792,2025-09-17,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,2,179.99,359.98
+ORD-10793,2025-09-20,Camping Tent 2-Person,Sports & Outdoors,Northeast,2,139.99,279.98
+ORD-10794,2025-09-21,USB-C Fast Charger,Electronics,Southeast,3,24.99,74.97
+ORD-10795,2025-09-21,Insulated Water Bottle,Sports & Outdoors,Northeast,2,24.99,49.98
+ORD-10796,2025-09-22,Bamboo Cutting Board,Home & Kitchen,Northeast,1,17.09,17.09
+ORD-10797,2025-09-22,Yoga Mat Premium,Sports & Outdoors,West,3,34.99,104.97
+ORD-10798,2025-09-23,USB-C Fast Charger,Electronics,Northeast,1,22.49,22.49
+ORD-10799,2025-09-23,Air Fryer 5L,Home & Kitchen,Midwest,1,99.99,99.99
+ORD-10800,2025-09-24,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10800,2025-09-24,Vitamin C Face Serum,Beauty & Personal Care,West,2,27.99,55.98
+ORD-10801,2025-09-25,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10802,2025-09-25,Natural Shampoo & Conditioner,Beauty & Personal Care,West,2,21.99,43.98
+ORD-10802,2025-09-25,Yoga Mat Premium,Sports & Outdoors,West,4,34.99,139.96
+ORD-10803,2025-09-26,USB-C Fast Charger,Electronics,Midwest,1,22.49,22.49
+ORD-10803,2025-09-26,Classic Leather Belt,Clothing,Midwest,1,29.99,29.99
+ORD-10803,2025-09-26,Vitamin C Face Serum,Beauty & Personal Care,Midwest,4,27.99,111.96
+ORD-10804,2025-09-26,Smart Fitness Watch,Electronics,Southeast,1,149.99,149.99
+ORD-10805,2025-09-26,Merino Wool Socks (3-Pack),Clothing,West,1,15.29,15.29
+ORD-10805,2025-09-26,Bluetooth Speaker Mini,Electronics,West,2,39.99,79.98
+ORD-10806,2025-09-26,Data Science Handbook,Books,Southeast,2,44.99,89.98
+ORD-10807,2025-09-27,Smart Fitness Watch,Electronics,West,3,134.99,404.97
+ORD-10808,2025-09-27,Data Science Handbook,Books,Midwest,2,44.99,89.98
+ORD-10809,2025-09-27,Merino Wool Socks (3-Pack),Clothing,Southwest,3,16.99,50.97
+ORD-10809,2025-09-27,Mystery Novel Collection,Books,Southwest,2,24.99,49.98
+ORD-10810,2025-09-28,Bluetooth Speaker Mini,Electronics,West,1,39.99,39.99
+ORD-10810,2025-09-28,Vitamin C Face Serum,Beauty & Personal Care,West,2,25.19,50.38
+ORD-10810,2025-09-28,Smart Fitness Watch,Electronics,West,4,134.99,539.96
+ORD-10811,2025-09-29,Data Science Handbook,Books,Southwest,1,44.99,44.99
+ORD-10812,2025-09-29,Data Science Handbook,Books,West,1,38.24,38.24
+ORD-10812,2025-09-29,USB-C Fast Charger,Electronics,West,4,24.99,99.96
+ORD-10813,2025-09-29,Trail Running Shoes,Sports & Outdoors,West,2,119.99,239.98
+ORD-10814,2025-10-01,Insulated Water Bottle,Sports & Outdoors,West,1,21.24,21.24
+ORD-10814,2025-10-01,Smart Fitness Watch,Electronics,West,1,127.49,127.49
+ORD-10815,2025-10-01,Bamboo Cutting Board,Home & Kitchen,West,1,17.09,17.09
+ORD-10816,2025-10-05,USB-C Fast Charger,Electronics,Northeast,3,24.99,74.97
+ORD-10817,2025-10-05,Smart Fitness Watch,Electronics,Northeast,1,149.99,149.99
+ORD-10818,2025-10-05,Organic Cotton T-Shirt,Clothing,West,4,19.99,79.96
+ORD-10819,2025-10-07,Vitamin C Face Serum,Beauty & Personal Care,Southwest,3,25.19,75.57
+ORD-10820,2025-10-08,Noise-Cancelling Headphones,Electronics,Southeast,3,229.99,689.97
+ORD-10821,2025-10-11,Trail Running Shoes,Sports & Outdoors,Southwest,4,101.99,407.96
+ORD-10822,2025-10-11,Hair Dryer Ionic,Beauty & Personal Care,West,1,69.99,69.99
+ORD-10823,2025-10-12,Electric Toothbrush,Beauty & Personal Care,Southwest,3,59.99,179.97
+ORD-10823,2025-10-12,Organic Cotton T-Shirt,Clothing,Southwest,3,19.99,59.97
+ORD-10824,2025-10-12,Yoga Mat Premium,Sports & Outdoors,Northeast,2,34.99,69.98
+ORD-10824,2025-10-12,Waterproof Rain Jacket,Clothing,Northeast,4,79.99,319.96
+ORD-10825,2025-10-13,Vitamin C Face Serum,Beauty & Personal Care,Southeast,3,27.99,83.97
+ORD-10826,2025-10-14,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,2,19.79,39.58
+ORD-10826,2025-10-14,Smart Fitness Watch,Electronics,Southwest,3,149.99,449.97
+ORD-10827,2025-10-14,Waterproof Rain Jacket,Clothing,Southwest,2,79.99,159.98
+ORD-10827,2025-10-14,Electric Toothbrush,Beauty & Personal Care,Southwest,1,59.99,59.99
+ORD-10828,2025-10-15,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,1,21.99,21.99
+ORD-10828,2025-10-15,Trail Running Shoes,Sports & Outdoors,Southeast,2,119.99,239.98
+ORD-10829,2025-10-15,Waterproof Rain Jacket,Clothing,Southwest,1,71.99,71.99
+ORD-10830,2025-10-16,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,1,22.99,22.99
+ORD-10831,2025-10-17,Waterproof Rain Jacket,Clothing,Northeast,2,79.99,159.98
+ORD-10831,2025-10-17,Slim Fit Denim Jeans,Clothing,Northeast,1,49.99,49.99
+ORD-10832,2025-10-17,Organic Cotton T-Shirt,Clothing,Southeast,1,17.99,17.99
+ORD-10833,2025-10-18,Bluetooth Speaker Mini,Electronics,West,4,33.99,135.96
+ORD-10834,2025-10-19,Stainless Steel Cookware Set,Home & Kitchen,West,3,129.99,389.97
+ORD-10835,2025-10-19,Waterproof Rain Jacket,Clothing,West,2,79.99,159.98
+ORD-10836,2025-10-20,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,2,179.99,359.98
+ORD-10837,2025-10-20,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,2,21.99,43.98
+ORD-10838,2025-10-20,Electric Kettle,Home & Kitchen,Northeast,3,34.99,104.97
+ORD-10838,2025-10-20,Bluetooth Speaker Mini,Electronics,Northeast,1,39.99,39.99
+ORD-10839,2025-10-21,Trail Running Shoes,Sports & Outdoors,Midwest,1,119.99,119.99
+ORD-10840,2025-10-23,Electric Toothbrush,Beauty & Personal Care,Southeast,2,59.99,119.98
+ORD-10841,2025-10-23,USB-C Fast Charger,Electronics,Northeast,4,22.49,89.96
+ORD-10842,2025-10-24,Classic Leather Belt,Clothing,Northeast,2,26.99,53.98
+ORD-10842,2025-10-24,Waterproof Rain Jacket,Clothing,Northeast,1,79.99,79.99
+ORD-10842,2025-10-24,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,21.99,21.99
+ORD-10843,2025-10-24,Wireless Earbuds Pro,Electronics,Northeast,3,80.99,242.97
+ORD-10843,2025-10-24,USB-C Fast Charger,Electronics,Northeast,3,22.49,67.47
+ORD-10844,2025-10-25,Electric Kettle,Home & Kitchen,Southwest,2,29.74,59.48
+ORD-10844,2025-10-25,USB-C Fast Charger,Electronics,Southwest,2,24.99,49.98
+ORD-10845,2025-10-26,Classic Leather Belt,Clothing,Southeast,1,26.99,26.99
+ORD-10846,2025-10-26,Electric Kettle,Home & Kitchen,West,2,34.99,69.98
+ORD-10846,2025-10-26,Slim Fit Denim Jeans,Clothing,West,1,49.99,49.99
+ORD-10847,2025-10-27,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,3,19.79,59.37
+ORD-10848,2025-10-28,Stainless Steel Cookware Set,Home & Kitchen,Northeast,3,129.99,389.97
+ORD-10848,2025-10-28,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,22.99,22.99
+ORD-10848,2025-10-28,Electric Kettle,Home & Kitchen,Northeast,1,34.99,34.99
+ORD-10849,2025-10-28,Classic Leather Belt,Clothing,West,1,29.99,29.99
+ORD-10849,2025-10-28,USB-C Fast Charger,Electronics,West,3,24.99,74.97
+ORD-10850,2025-10-28,Air Fryer 5L,Home & Kitchen,Northeast,4,99.99,399.96
+ORD-10850,2025-10-28,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,1,179.99,179.99
+ORD-10851,2025-10-29,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,3,179.99,539.97
+ORD-10852,2025-10-29,Wireless Earbuds Pro,Electronics,Southwest,2,89.99,179.98
+ORD-10853,2025-10-29,Insulated Water Bottle,Sports & Outdoors,Midwest,1,22.49,22.49
+ORD-10854,2025-10-29,Electric Toothbrush,Beauty & Personal Care,Southeast,1,59.99,59.99
+ORD-10854,2025-10-29,Bamboo Cutting Board,Home & Kitchen,Southeast,3,16.14,48.42
+ORD-10855,2025-10-30,Vitamin C Face Serum,Beauty & Personal Care,West,2,27.99,55.98
+ORD-10856,2025-10-30,Slim Fit Denim Jeans,Clothing,Northeast,1,49.99,49.99
+ORD-10856,2025-10-30,Merino Wool Socks (3-Pack),Clothing,Northeast,3,16.99,50.97
+ORD-10857,2025-10-30,Bamboo Cutting Board,Home & Kitchen,Southeast,2,18.99,37.98
+ORD-10858,2025-10-30,World Cuisine Cookbook,Books,Northeast,4,29.99,119.96
+ORD-10858,2025-10-30,Data Science Handbook,Books,Northeast,1,44.99,44.99
+ORD-10859,2025-10-30,Natural Shampoo & Conditioner,Beauty & Personal Care,West,1,21.99,21.99
+ORD-10859,2025-10-30,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10860,2025-10-30,Insulated Water Bottle,Sports & Outdoors,Northeast,2,22.49,44.98
+ORD-10861,2025-11-01,Vitamin C Face Serum,Beauty & Personal Care,West,4,27.99,111.96
+ORD-10861,2025-11-01,Trail Running Shoes,Sports & Outdoors,West,1,119.99,119.99
+ORD-10862,2025-11-01,World Cuisine Cookbook,Books,West,2,23.99,47.98
+ORD-10862,2025-11-01,Mystery Novel Collection,Books,West,4,19.99,79.96
+ORD-10863,2025-11-01,Mindful Productivity Guide,Books,Northeast,1,16.99,16.99
+ORD-10864,2025-11-02,Mystery Novel Collection,Books,Northeast,1,19.99,19.99
+ORD-10865,2025-11-02,Organic Cotton T-Shirt,Clothing,Southeast,1,15.99,15.99
+ORD-10866,2025-11-02,Bamboo Cutting Board,Home & Kitchen,West,2,18.99,37.98
+ORD-10867,2025-11-02,Organic Cotton T-Shirt,Clothing,Southeast,1,17.99,17.99
+ORD-10868,2025-11-03,USB-C Fast Charger,Electronics,Northeast,2,19.99,39.98
+ORD-10869,2025-11-04,Bamboo Cutting Board,Home & Kitchen,West,4,15.19,60.76
+ORD-10869,2025-11-04,USB-C Fast Charger,Electronics,West,1,24.99,24.99
+ORD-10870,2025-11-05,Mindful Productivity Guide,Books,Southeast,1,16.99,16.99
+ORD-10871,2025-11-05,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10872,2025-11-06,Wireless Earbuds Pro,Electronics,West,1,89.99,89.99
+ORD-10873,2025-11-06,Stainless Steel Cookware Set,Home & Kitchen,West,2,103.99,207.98
+ORD-10874,2025-11-06,Yoga Mat Premium,Sports & Outdoors,Northeast,1,29.74,29.74
+ORD-10875,2025-11-09,Adjustable Dumbbell Pair,Sports & Outdoors,Northeast,2,143.99,287.98
+ORD-10876,2025-11-09,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,4,18.69,74.76
+ORD-10876,2025-11-09,Organic Cotton T-Shirt,Clothing,Northeast,4,15.99,63.96
+ORD-10877,2025-11-09,Electric Kettle,Home & Kitchen,Northeast,1,27.99,27.99
+ORD-10878,2025-11-09,Hair Dryer Ionic,Beauty & Personal Care,Southeast,4,69.99,279.96
+ORD-10879,2025-11-10,Air Fryer 5L,Home & Kitchen,Southeast,1,99.99,99.99
+ORD-10879,2025-11-10,Smart Fitness Watch,Electronics,Southeast,1,149.99,149.99
+ORD-10880,2025-11-10,Trail Running Shoes,Sports & Outdoors,Southeast,1,95.99,95.99
+ORD-10880,2025-11-10,Electric Kettle,Home & Kitchen,Southeast,1,34.99,34.99
+ORD-10881,2025-11-11,USB-C Fast Charger,Electronics,Midwest,3,19.99,59.97
+ORD-10882,2025-11-12,Ceramic Coffee Mug Set,Home & Kitchen,Southwest,1,18.39,18.39
+ORD-10882,2025-11-12,Mindful Productivity Guide,Books,Southwest,1,16.99,16.99
+ORD-10883,2025-11-12,Organic Cotton T-Shirt,Clothing,Southeast,3,19.99,59.97
+ORD-10884,2025-11-12,Merino Wool Socks (3-Pack),Clothing,West,1,13.59,13.59
+ORD-10884,2025-11-12,Air Fryer 5L,Home & Kitchen,West,2,99.99,199.98
+ORD-10885,2025-11-14,Mystery Novel Collection,Books,Southeast,2,24.99,49.98
+ORD-10885,2025-11-14,Organic Cotton T-Shirt,Clothing,Southeast,1,15.99,15.99
+ORD-10886,2025-11-15,Organic Cotton T-Shirt,Clothing,Southeast,1,15.99,15.99
+ORD-10887,2025-11-15,Trail Running Shoes,Sports & Outdoors,Southwest,1,119.99,119.99
+ORD-10888,2025-11-15,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,1,21.99,21.99
+ORD-10889,2025-11-16,Electric Toothbrush,Beauty & Personal Care,Northeast,1,59.99,59.99
+ORD-10890,2025-11-16,Slim Fit Denim Jeans,Clothing,West,1,49.99,49.99
+ORD-10891,2025-11-17,Electric Kettle,Home & Kitchen,Southwest,2,27.99,55.98
+ORD-10892,2025-11-17,Bamboo Cutting Board,Home & Kitchen,Northeast,4,15.19,60.76
+ORD-10892,2025-11-17,Classic Leather Belt,Clothing,Northeast,1,29.99,29.99
+ORD-10893,2025-11-17,4K Streaming Stick,Electronics,Southeast,1,39.99,39.99
+ORD-10894,2025-11-18,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,2,22.99,45.98
+ORD-10895,2025-11-18,Natural Shampoo & Conditioner,Beauty & Personal Care,West,3,21.99,65.97
+ORD-10896,2025-11-19,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,1,21.99,21.99
+ORD-10896,2025-11-19,Merino Wool Socks (3-Pack),Clothing,Southeast,1,15.29,15.29
+ORD-10897,2025-11-19,World Cuisine Cookbook,Books,Northeast,1,26.99,26.99
+ORD-10897,2025-11-19,Yoga Mat Premium,Sports & Outdoors,Northeast,2,27.99,55.98
+ORD-10897,2025-11-19,Bamboo Cutting Board,Home & Kitchen,Northeast,2,15.19,30.38
+ORD-10898,2025-11-19,Stainless Steel Cookware Set,Home & Kitchen,Northeast,1,129.99,129.99
+ORD-10899,2025-11-20,Natural Shampoo & Conditioner,Beauty & Personal Care,Southwest,4,17.59,70.36
+ORD-10900,2025-11-20,Organic Cotton T-Shirt,Clothing,Northeast,1,19.99,19.99
+ORD-10901,2025-11-20,4K Streaming Stick,Electronics,Northeast,1,49.99,49.99
+ORD-10901,2025-11-20,Insulated Water Bottle,Sports & Outdoors,Northeast,1,24.99,24.99
+ORD-10902,2025-11-21,Merino Wool Socks (3-Pack),Clothing,Northeast,3,14.44,43.32
+ORD-10902,2025-11-21,Waterproof Rain Jacket,Clothing,Northeast,1,63.99,63.99
+ORD-10903,2025-11-22,USB-C Fast Charger,Electronics,West,4,19.99,79.96
+ORD-10903,2025-11-22,Electric Toothbrush,Beauty & Personal Care,West,3,47.99,143.97
+ORD-10903,2025-11-22,Adjustable Dumbbell Pair,Sports & Outdoors,West,1,143.99,143.99
+ORD-10904,2025-11-22,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,1,17.59,17.59
+ORD-10904,2025-11-22,Air Fryer 5L,Home & Kitchen,Northeast,2,84.99,169.98
+ORD-10905,2025-11-22,Merino Wool Socks (3-Pack),Clothing,Southwest,1,13.59,13.59
+ORD-10906,2025-11-22,Hair Dryer Ionic,Beauty & Personal Care,Northeast,2,55.99,111.98
+ORD-10907,2025-11-23,Classic Leather Belt,Clothing,Northeast,1,23.99,23.99
+ORD-10907,2025-11-23,Bamboo Cutting Board,Home & Kitchen,Northeast,1,18.99,18.99
+ORD-10908,2025-11-23,Organic Cotton T-Shirt,Clothing,Southwest,2,15.99,31.98
+ORD-10909,2025-11-24,Hair Dryer Ionic,Beauty & Personal Care,West,1,55.99,55.99
+ORD-10909,2025-11-24,Organic Cotton T-Shirt,Clothing,West,1,15.99,15.99
+ORD-10909,2025-11-24,Electric Kettle,Home & Kitchen,West,3,27.99,83.97
+ORD-10910,2025-11-25,Electric Kettle,Home & Kitchen,West,4,27.99,111.96
+ORD-10911,2025-11-25,Air Fryer 5L,Home & Kitchen,Midwest,2,79.99,159.98
+ORD-10912,2025-11-26,Air Fryer 5L,Home & Kitchen,Northeast,1,79.99,79.99
+ORD-10912,2025-11-26,Organic Cotton T-Shirt,Clothing,Northeast,1,17.99,17.99
+ORD-10913,2025-11-26,Electric Kettle,Home & Kitchen,West,1,31.49,31.49
+ORD-10913,2025-11-26,4K Streaming Stick,Electronics,West,1,39.99,39.99
+ORD-10914,2025-11-27,Vitamin C Face Serum,Beauty & Personal Care,West,1,27.99,27.99
+ORD-10914,2025-11-27,USB-C Fast Charger,Electronics,West,4,21.24,84.96
+ORD-10915,2025-11-28,Ceramic Coffee Mug Set,Home & Kitchen,Northeast,1,18.39,18.39
+ORD-10915,2025-11-28,USB-C Fast Charger,Electronics,Northeast,2,19.99,39.98
+ORD-10916,2025-11-29,4K Streaming Stick,Electronics,West,1,49.99,49.99
+ORD-10917,2025-11-29,4K Streaming Stick,Electronics,Southwest,1,44.99,44.99
+ORD-10917,2025-11-29,Adjustable Dumbbell Pair,Sports & Outdoors,Southwest,2,179.99,359.98
+ORD-10917,2025-11-29,Wireless Earbuds Pro,Electronics,Southwest,4,89.99,359.96
+ORD-10918,2025-11-29,Air Fryer 5L,Home & Kitchen,West,2,89.99,179.98
+ORD-10918,2025-11-29,Waterproof Rain Jacket,Clothing,West,2,79.99,159.98
+ORD-10919,2025-11-29,USB-C Fast Charger,Electronics,Southeast,4,24.99,99.96
+ORD-10920,2025-11-30,Bamboo Cutting Board,Home & Kitchen,West,1,18.99,18.99
+ORD-10921,2025-11-30,Slim Fit Denim Jeans,Clothing,West,2,39.99,79.98
+ORD-10922,2025-11-30,Insulated Water Bottle,Sports & Outdoors,Northeast,4,19.99,79.96
+ORD-10923,2025-12-01,Electric Kettle,Home & Kitchen,West,4,34.99,139.96
+ORD-10924,2025-12-01,Slim Fit Denim Jeans,Clothing,Southwest,2,49.99,99.98
+ORD-10924,2025-12-01,Trail Running Shoes,Sports & Outdoors,Southwest,1,119.99,119.99
+ORD-10925,2025-12-01,Electric Kettle,Home & Kitchen,Southwest,2,31.49,62.98
+ORD-10925,2025-12-01,Merino Wool Socks (3-Pack),Clothing,Southwest,1,16.99,16.99
+ORD-10926,2025-12-02,Bamboo Cutting Board,Home & Kitchen,West,1,16.14,16.14
+ORD-10926,2025-12-02,Yoga Mat Premium,Sports & Outdoors,West,2,34.99,69.98
+ORD-10927,2025-12-02,Organic Cotton T-Shirt,Clothing,Northeast,2,19.99,39.98
+ORD-10927,2025-12-02,Stainless Steel Cookware Set,Home & Kitchen,Northeast,2,129.99,259.98
+ORD-10928,2025-12-02,Mystery Novel Collection,Books,West,3,24.99,74.97
+ORD-10928,2025-12-02,Data Science Handbook,Books,West,1,44.99,44.99
+ORD-10929,2025-12-02,Insulated Water Bottle,Sports & Outdoors,West,2,22.49,44.98
+ORD-10930,2025-12-02,Wireless Earbuds Pro,Electronics,Northeast,1,89.99,89.99
+ORD-10930,2025-12-02,Organic Cotton T-Shirt,Clothing,Northeast,2,19.99,39.98
+ORD-10931,2025-12-03,Classic Leather Belt,Clothing,West,2,26.99,53.98
+ORD-10932,2025-12-03,Wireless Earbuds Pro,Electronics,Northeast,4,89.99,359.96
+ORD-10932,2025-12-03,Classic Leather Belt,Clothing,Northeast,3,26.99,80.97
+ORD-10932,2025-12-03,Electric Toothbrush,Beauty & Personal Care,Northeast,1,59.99,59.99
+ORD-10933,2025-12-03,Adjustable Dumbbell Pair,Sports & Outdoors,Midwest,1,152.99,152.99
+ORD-10933,2025-12-03,4K Streaming Stick,Electronics,Midwest,1,49.99,49.99
+ORD-10934,2025-12-03,Air Fryer 5L,Home & Kitchen,Northeast,1,99.99,99.99
+ORD-10935,2025-12-05,Smart Fitness Watch,Electronics,Northeast,4,149.99,599.96
+ORD-10936,2025-12-05,Smart Fitness Watch,Electronics,West,2,149.99,299.98
+ORD-10936,2025-12-05,Organic Cotton T-Shirt,Clothing,West,1,19.99,19.99
+ORD-10937,2025-12-06,Data Science Handbook,Books,Midwest,1,44.99,44.99
+ORD-10937,2025-12-06,Stainless Steel Cookware Set,Home & Kitchen,Midwest,4,129.99,519.96
+ORD-10938,2025-12-06,Merino Wool Socks (3-Pack),Clothing,West,1,16.99,16.99
+ORD-10939,2025-12-07,Natural Shampoo & Conditioner,Beauty & Personal Care,West,3,21.99,65.97
+ORD-10940,2025-12-07,Natural Shampoo & Conditioner,Beauty & Personal Care,Northeast,2,19.79,39.58
+ORD-10941,2025-12-07,Air Fryer 5L,Home & Kitchen,Northeast,1,99.99,99.99
+ORD-10942,2025-12-07,Insulated Water Bottle,Sports & Outdoors,West,3,24.99,74.97
+ORD-10943,2025-12-07,Insulated Water Bottle,Sports & Outdoors,Southwest,2,24.99,49.98
+ORD-10943,2025-12-07,Merino Wool Socks (3-Pack),Clothing,Southwest,1,16.99,16.99
+ORD-10944,2025-12-07,Vitamin C Face Serum,Beauty & Personal Care,Southwest,2,23.79,47.58
+ORD-10945,2025-12-08,Yoga Mat Premium,Sports & Outdoors,West,1,34.99,34.99
+ORD-10945,2025-12-08,Vitamin C Face Serum,Beauty & Personal Care,West,1,27.99,27.99
+ORD-10946,2025-12-08,Hair Dryer Ionic,Beauty & Personal Care,Northeast,3,69.99,209.97
+ORD-10946,2025-12-08,Waterproof Rain Jacket,Clothing,Northeast,2,71.99,143.98
+ORD-10946,2025-12-08,Stainless Steel Cookware Set,Home & Kitchen,Northeast,4,129.99,519.96
+ORD-10947,2025-12-09,Bluetooth Speaker Mini,Electronics,Southeast,4,39.99,159.96
+ORD-10948,2025-12-11,Electric Kettle,Home & Kitchen,Northeast,1,34.99,34.99
+ORD-10949,2025-12-11,Noise-Cancelling Headphones,Electronics,Northeast,1,229.99,229.99
+ORD-10949,2025-12-11,Bluetooth Speaker Mini,Electronics,Northeast,2,39.99,79.98
+ORD-10950,2025-12-12,Mystery Novel Collection,Books,Midwest,3,24.99,74.97
+ORD-10951,2025-12-13,Stainless Steel Cookware Set,Home & Kitchen,Southeast,2,129.99,259.98
+ORD-10951,2025-12-13,Electric Kettle,Home & Kitchen,Southeast,3,34.99,104.97
+ORD-10952,2025-12-13,Mindful Productivity Guide,Books,Southeast,4,16.99,67.96
+ORD-10953,2025-12-13,Insulated Water Bottle,Sports & Outdoors,Northeast,2,22.49,44.98
+ORD-10953,2025-12-13,Smart Fitness Watch,Electronics,Northeast,2,134.99,269.98
+ORD-10954,2025-12-13,Insulated Water Bottle,Sports & Outdoors,Southeast,2,22.49,44.98
+ORD-10955,2025-12-13,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,2,21.99,43.98
+ORD-10956,2025-12-14,Smart Fitness Watch,Electronics,Southwest,1,149.99,149.99
+ORD-10957,2025-12-14,Insulated Water Bottle,Sports & Outdoors,West,2,24.99,49.98
+ORD-10958,2025-12-14,Bamboo Cutting Board,Home & Kitchen,Midwest,4,18.99,75.96
+ORD-10959,2025-12-15,Organic Cotton T-Shirt,Clothing,West,3,19.99,59.97
+ORD-10959,2025-12-15,Ceramic Coffee Mug Set,Home & Kitchen,West,4,20.69,82.76
+ORD-10960,2025-12-15,Electric Toothbrush,Beauty & Personal Care,Southeast,1,53.99,53.99
+ORD-10960,2025-12-15,Slim Fit Denim Jeans,Clothing,Southeast,1,49.99,49.99
+ORD-10961,2025-12-15,Organic Cotton T-Shirt,Clothing,Southeast,2,19.99,39.98
+ORD-10962,2025-12-16,Wireless Earbuds Pro,Electronics,Southeast,2,89.99,179.98
+ORD-10962,2025-12-16,Organic Cotton T-Shirt,Clothing,Southeast,1,19.99,19.99
+ORD-10963,2025-12-16,Air Fryer 5L,Home & Kitchen,West,4,84.99,339.96
+ORD-10964,2025-12-16,Slim Fit Denim Jeans,Clothing,West,2,49.99,99.98
+ORD-10965,2025-12-17,Organic Cotton T-Shirt,Clothing,West,2,19.99,39.98
+ORD-10965,2025-12-17,Electric Kettle,Home & Kitchen,West,2,34.99,69.98
+ORD-10966,2025-12-17,Yoga Mat Premium,Sports & Outdoors,Midwest,1,29.74,29.74
+ORD-10967,2025-12-17,Slim Fit Denim Jeans,Clothing,Northeast,2,49.99,99.98
+ORD-10968,2025-12-18,USB-C Fast Charger,Electronics,Midwest,1,22.49,22.49
+ORD-10969,2025-12-19,Yoga Mat Premium,Sports & Outdoors,Southeast,2,31.49,62.98
+ORD-10969,2025-12-19,Natural Shampoo & Conditioner,Beauty & Personal Care,Southeast,3,21.99,65.97
+ORD-10970,2025-12-20,Bamboo Cutting Board,Home & Kitchen,Midwest,1,18.99,18.99
+ORD-10971,2025-12-20,Wireless Earbuds Pro,Electronics,Southeast,1,89.99,89.99
+ORD-10972,2025-12-20,Electric Toothbrush,Beauty & Personal Care,West,2,53.99,107.98
+ORD-10973,2025-12-21,Mystery Novel Collection,Books,West,2,24.99,49.98
+ORD-10974,2025-12-22,Ceramic Coffee Mug Set,Home & Kitchen,Midwest,1,22.99,22.99
+ORD-10974,2025-12-22,Classic Leather Belt,Clothing,Midwest,1,29.99,29.99
+ORD-10975,2025-12-23,Yoga Mat Premium,Sports & Outdoors,Northeast,1,34.99,34.99
+ORD-10976,2025-12-23,Electric Kettle,Home & Kitchen,Southwest,2,31.49,62.98
+ORD-10977,2025-12-24,Smart Fitness Watch,Electronics,West,1,134.99,134.99
+ORD-10978,2025-12-24,Wireless Earbuds Pro,Electronics,Southeast,3,89.99,269.97
+ORD-10979,2025-12-24,Ceramic Coffee Mug Set,Home & Kitchen,West,1,22.99,22.99
+ORD-10979,2025-12-24,Adjustable Dumbbell Pair,Sports & Outdoors,West,3,161.99,485.97
+ORD-10980,2025-12-24,Classic Leather Belt,Clothing,Southeast,4,25.49,101.96
+ORD-10981,2025-12-25,Bamboo Cutting Board,Home & Kitchen,Midwest,2,18.99,37.98
+ORD-10982,2025-12-25,Bamboo Cutting Board,Home & Kitchen,Southeast,1,18.99,18.99
+ORD-10982,2025-12-25,Yoga Mat Premium,Sports & Outdoors,Southeast,1,34.99,34.99
+ORD-10983,2025-12-26,Vitamin C Face Serum,Beauty & Personal Care,Midwest,1,27.99,27.99
+ORD-10983,2025-12-26,Natural Shampoo & Conditioner,Beauty & Personal Care,Midwest,1,21.99,21.99
+ORD-10984,2025-12-26,Merino Wool Socks (3-Pack),Clothing,Midwest,4,16.99,67.96
+ORD-10984,2025-12-26,Vitamin C Face Serum,Beauty & Personal Care,Midwest,1,27.99,27.99
+ORD-10985,2025-12-26,Slim Fit Denim Jeans,Clothing,Southeast,1,44.99,44.99
+ORD-10985,2025-12-26,Bamboo Cutting Board,Home & Kitchen,Southeast,4,18.99,75.96
+ORD-10986,2025-12-26,Electric Toothbrush,Beauty & Personal Care,West,3,59.99,179.97
+ORD-10987,2025-12-26,Slim Fit Denim Jeans,Clothing,Southeast,1,49.99,49.99
+ORD-10988,2025-12-27,Bluetooth Speaker Mini,Electronics,Southwest,1,39.99,39.99
+ORD-10989,2025-12-27,Wireless Earbuds Pro,Electronics,West,4,89.99,359.96
+ORD-10990,2025-12-28,Hair Dryer Ionic,Beauty & Personal Care,Midwest,3,69.99,209.97
+ORD-10991,2025-12-28,Stainless Steel Cookware Set,Home & Kitchen,Midwest,2,110.49,220.98
+ORD-10992,2025-12-28,Smart Fitness Watch,Electronics,Southeast,1,127.49,127.49
+ORD-10993,2025-12-29,Mystery Novel Collection,Books,West,2,24.99,49.98
+ORD-10993,2025-12-29,Trail Running Shoes,Sports & Outdoors,West,1,119.99,119.99
+ORD-10994,2025-12-29,4K Streaming Stick,Electronics,Northeast,2,42.49,84.98
+ORD-10995,2025-12-29,Trail Running Shoes,Sports & Outdoors,West,2,119.99,239.98
+ORD-10996,2025-12-30,Ceramic Coffee Mug Set,Home & Kitchen,Southeast,1,22.99,22.99
+ORD-10997,2025-12-30,Data Science Handbook,Books,Northeast,1,44.99,44.99
+ORD-10998,2025-12-31,Waterproof Rain Jacket,Clothing,Midwest,1,79.99,79.99
+ORD-10999,2025-12-31,Insulated Water Bottle,Sports & Outdoors,Southwest,1,24.99,24.99
+ORD-11000,2025-12-31,Slim Fit Denim Jeans,Clothing,Southeast,2,49.99,99.98
